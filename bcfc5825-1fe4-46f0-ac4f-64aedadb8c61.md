@@ -17,19 +17,7 @@
 
 ## body
 
-NEWARK, N.J. – A Somerset County, New Jersey, man today admitted defrauding his former employer by using the employer’s account to make unauthorized purchases of high-end electronic devices and selling those items on after-market websites, Acting U.S. Attorney Rachael A. Honig announced.
-
-Ovais Mayet, 33, of Hillsborough, New Jersey, pleaded guilty by videoconference before U.S. District Judge Madeline Cox Arleo to an information charging him with one count of wire fraud.
-
-According to documents filed in this case and statements made in court:
-
-Mayet was a biological engineer with a biopharmaceutical company located in Summit, New Jersey. He was permitted to use the employer’s business account to make authorized purchases of materials and equipment for work-related purposes. Instead, Mayet used the employer’s account to purchase substantial quantities of electronic devices, which he did not and would not use in the course of his employment. Between January 2019 and March 2020, Mayet executed online purchase ordersand disguised these purchases as business expenses, when, in fact, they were for his own personal gain. Mayet resold the items on after-market websites and used the proceeds to pay for personal expenses. Mayet obtained nearly $1.1 million worth of electronic devices from the fraudulent scheme.
-
-The wire fraud charge to which Mayet pleaded guilty carries a maximum potential penalty of 20 years in prison and a fine of $250,000, or twice the gross amount of gain or loss from the offense, whichever is greater. Sentencing is scheduled for June 7, 2021.
-
-Acting U.S. Attorney Honig credited special agents of the FBI, Trenton Resident Agency, under the direction of Special Agent in Charge George M. Crouch Jr. in Newark, with the investigation leading to today’s guilty plea.
-
-The government is represented by Assistant U.S. Attorney Ray Mateo of the U.S. Attorney’s Office Criminal Division in Trenton.
+NEWARK, N.J. – A Somerset County, New Jersey, man today admitted defrauding his former employer by using the employer’s account to make unauthorized purchases of high-end electronic devices and selling those items on after-market websites, Acting U.S. Attorney Rachael A. Honig announced. Ovais Mayet, 33, of Hillsborough, New Jersey, pleaded guilty by videoconference before U.S. District Judge Madeline Cox Arleo to an information charging him with one count of wire fraud. According to documents filed in this case and statements made in court: Mayet was a biological engineer with a biopharmaceutical company located in Summit, New Jersey. He was permitted to use the employer’s business account to make authorized purchases of materials and equipment for work-related purposes. Instead, Mayet used the employer’s account to purchase substantial quantities of electronic devices, which he did not and would not use in the course of his employment. Between January 2019 and March 2020, Mayet executed online purchase ordersand disguised these purchases as business expenses, when, in fact, they were for his own personal gain. Mayet resold the items on after-market websites and used the proceeds to pay for personal expenses. Mayet obtained nearly $1.1 million worth of electronic devices from the fraudulent scheme. The wire fraud charge to which Mayet pleaded guilty carries a maximum potential penalty of 20 years in prison and a fine of $250,000, or twice the gross amount of gain or loss from the offense, whichever is greater. Sentencing is scheduled for June 7, 2021. Acting U.S. Attorney Honig credited special agents of the FBI, Trenton Resident Agency, under the direction of Special Agent in Charge George M. Crouch Jr. in Newark, with the investigation leading to today’s guilty plea. The government is represented by Assistant U.S. Attorney Ray Mateo of the U.S. Attorney’s Office Criminal Division in Trenton.
 
 ## changed
 

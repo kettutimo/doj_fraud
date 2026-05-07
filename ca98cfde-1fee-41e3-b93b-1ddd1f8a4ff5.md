@@ -17,21 +17,7 @@
 
 ## body
 
-PROVIDENCE – Four men from the Atlanta, GA, area have been charged in federal court in Providence, RI, for allegedly operating a long-running scheme in which homeless and transient individuals from the Providence area were recruited to cash counterfeit business checks in exchange for a cash payment.
-
-It is alleged in court documents that homeless individuals enlisted by the Georgia men were driven to financial institutions in Rhode Island, Massachusetts, Connecticut, Maine, and elsewhere, provided bogus business checks made out to them, and were instructed to cash the checks using their Rhode Island ID card or driver’s license for identification. The individuals were told to return to the vehicle with the cash and in return were paid between $100 and $200.
-
-It is alleged that in at least one instance, a homeless individual was threatened with bodily harm if that person took off with the proceeds after cashing the bogus check and failed to provide the funds to the schemers.
-
-As a result of an investigation by the Medway, MA, Police Department and the United States Secret Service, federal criminal complaints filed in U.S. District Court in Providence charge Austin Weaver, 31, of Decatur, GA; Cortavious Benford, 26, of Atlanta, GA; and Michael Williams, 26, and Jalen Ronald Stanford, 28, of East Point, GA, with conspiracy to commit bank fraud, announced Acting United States Attorney Richard B. Myrus, Medway, MA, Police Chief Allen Tingley, and Special Agent in Charge of the U.S. Secret Service Frederick J. Regan.
-
-A federal criminal complaint is merely an accusation. A defendant is presumed innocent unless and until proven guilty.
-
-The case is being prosecuted by Assistant United States Attorney Lee H. Vilker.
-
-Acting United States Attorney Richard B. Myrus acknowledges and thanks the Providence Police Department for its assistance in the investigation of this matter.
-
-**###**
+PROVIDENCE – Four men from the Atlanta, GA, area have been charged in federal court in Providence, RI, for allegedly operating a long-running scheme in which homeless and transient individuals from the Providence area were recruited to cash counterfeit business checks in exchange for a cash payment. It is alleged in court documents that homeless individuals enlisted by the Georgia men were driven to financial institutions in Rhode Island, Massachusetts, Connecticut, Maine, and elsewhere, provided bogus business checks made out to them, and were instructed to cash the checks using their Rhode Island ID card or driver’s license for identification. The individuals were told to return to the vehicle with the cash and in return were paid between $100 and $200. It is alleged that in at least one instance, a homeless individual was threatened with bodily harm if that person took off with the proceeds after cashing the bogus check and failed to provide the funds to the schemers. As a result of an investigation by the Medway, MA, Police Department and the United States Secret Service, federal criminal complaints filed in U.S. District Court in Providence charge Austin Weaver, 31, of Decatur, GA; Cortavious Benford, 26, of Atlanta, GA; and Michael Williams, 26, and Jalen Ronald Stanford, 28, of East Point, GA, with conspiracy to commit bank fraud, announced Acting United States Attorney Richard B. Myrus, Medway, MA, Police Chief Allen Tingley, and Special Agent in Charge of the U.S. Secret Service Frederick J. Regan. A federal criminal complaint is merely an accusation. A defendant is presumed innocent unless and until proven guilty. The case is being prosecuted by Assistant United States Attorney Lee H. Vilker. Acting United States Attorney Richard B. Myrus acknowledges and thanks the Providence Police Department for its assistance in the investigation of this matter. **###**
 
 ## changed
 

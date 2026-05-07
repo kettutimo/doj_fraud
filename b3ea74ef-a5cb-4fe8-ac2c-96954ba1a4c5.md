@@ -6,21 +6,7 @@
 
 ## body
 
-CINCINNATI – A former financial advisor who stole $8.6 million from friends and relatives over the course of a 20-year Ponzi scheme was sentenced in U.S. District Court today to 60 months in prison.
-
-John Jay Kersey, 65, of Maineville, Ohio, pleaded guilty in June 2025 to wire fraud.
-
-According to court documents, Kersey was a long-time, trusted financial advisor to friends and relatives. For approximately two decades, from 2003 through 2023, he convinced his clients to move their existing investments from his company to purportedly invest in other funds. Kersey then stole the funds and used the money to pay down credit card bills, pay insurance premiums and to provide a downpayment on real estate. Kersey also used the money to pay other clients, when required, to maintain his investment scheme.
-
-To keep his scheme going, the defendant told his clients that their investments were performing well. He provided false documents that included fictitious financial summaries and bank account numbers. Kersey also fabricated charts and graphs to show his victims.
-
-Kersey took advantage of and deceived his victims during some of the most vulnerable moments of their lives. For example, after a victim’s spouse passed away, Kersey assured the victim that he would take care of her finances – when in reality, he had stolen the victim’s funds and used them for his own benefit.
-
-Kersey was charged federally in June 2025 by bill of information.
-
-Dominick S. Gerace II, United States Attorney for the Southern District of Ohio, and Jason Cromartie, Special Agent in Charge, Federal Bureau of Investigation (FBI), Cincinnati Division, announced the sentence imposed today by Senior U.S. District Court Judge Susan J. Dlott. Deputy Criminal Chief Emily N. Glatfelter is representing the United States in this case.
-
-*# # #*
+CINCINNATI – A former financial advisor who stole $8.6 million from friends and relatives over the course of a 20-year Ponzi scheme was sentenced in U.S. District Court today to 60 months in prison. John Jay Kersey, 65, of Maineville, Ohio, pleaded guilty in June 2025 to wire fraud. According to court documents, Kersey was a long-time, trusted financial advisor to friends and relatives. For approximately two decades, from 2003 through 2023, he convinced his clients to move their existing investments from his company to purportedly invest in other funds. Kersey then stole the funds and used the money to pay down credit card bills, pay insurance premiums and to provide a downpayment on real estate. Kersey also used the money to pay other clients, when required, to maintain his investment scheme. To keep his scheme going, the defendant told his clients that their investments were performing well. He provided false documents that included fictitious financial summaries and bank account numbers. Kersey also fabricated charts and graphs to show his victims. Kersey took advantage of and deceived his victims during some of the most vulnerable moments of their lives. For example, after a victim’s spouse passed away, Kersey assured the victim that he would take care of her finances – when in reality, he had stolen the victim’s funds and used them for his own benefit. Kersey was charged federally in June 2025 by bill of information. Dominick S. Gerace II, United States Attorney for the Southern District of Ohio, and Jason Cromartie, Special Agent in Charge, Federal Bureau of Investigation (FBI), Cincinnati Division, announced the sentence imposed today by Senior U.S. District Court Judge Susan J. Dlott. Deputy Criminal Chief Emily N. Glatfelter is representing the United States in this case. *# # #*
 
 ## changed
 

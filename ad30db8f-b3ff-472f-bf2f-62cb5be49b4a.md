@@ -6,13 +6,7 @@
 
 ## body
 
-ALBUQUERQUE, N.M. – Solomon Gbara, 47, of Albuquerque, pleaded guilty on Dec. 13 in federal court to aiding and assisting in the preparation and presentation of false and fraudulent income tax returns. A federal grand jury indicted Gbara on March 12.
-
-According to the indictment and other court records, from February 2015 through May 2020, Gbara, who owned and operated Express Tax SG, assisted in the preparation and presentation of individual income tax returns (IRS Form 1040) that included claims Gbara knew were false. These misrepresentations included claims for dependents and Schedule C businesses to which the taxpayers were not entitled under the provisions of internal revenue laws. Gbara also admitted to showing clients tax returns with certain expected refunds, then filed returns with higher refunds and pocketed the difference.
-
-The fraudulent returns filed by Gbara represented a total loss of over $90,000 in tax revenues. Gbara faces up to three years in prison for each count. A sentencing date has not been scheduled.
-
-IRS Criminal Investigation investigated this case. Assistant U.S. Attorney Jeremy Peña is prosecuting the case.
+ALBUQUERQUE, N.M. – Solomon Gbara, 47, of Albuquerque, pleaded guilty on Dec. 13 in federal court to aiding and assisting in the preparation and presentation of false and fraudulent income tax returns. A federal grand jury indicted Gbara on March 12. According to the indictment and other court records, from February 2015 through May 2020, Gbara, who owned and operated Express Tax SG, assisted in the preparation and presentation of individual income tax returns (IRS Form 1040) that included claims Gbara knew were false. These misrepresentations included claims for dependents and Schedule C businesses to which the taxpayers were not entitled under the provisions of internal revenue laws. Gbara also admitted to showing clients tax returns with certain expected refunds, then filed returns with higher refunds and pocketed the difference. The fraudulent returns filed by Gbara represented a total loss of over $90,000 in tax revenues. Gbara faces up to three years in prison for each count. A sentencing date has not been scheduled. IRS Criminal Investigation investigated this case. Assistant U.S. Attorney Jeremy Peña is prosecuting the case.
 
 ## changed
 

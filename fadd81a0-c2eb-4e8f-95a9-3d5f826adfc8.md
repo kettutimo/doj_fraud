@@ -6,19 +6,7 @@
 
 ## body
 
-ST. LOUIS – A woman from Franklin County, Missouri on Wednesday admitted using stolen mail to commit bank and check fraud.
-
-Miranda Burgess, 30, pleaded guilty to all 13 counts that she faces: one count of aggravated identity theft, three counts of possession of stolen mail and nine counts of bank fraud.
-
-As early as Feb. 1, 2022, Burgess obtained mail that had been stolen from a Missouri victim, including mail with information about the victim’s bank accounts. Burgess used that information to transfer funds from the victim’s bank to her own accounts with Acorns, Green Dot, M1 Finance, Square and Wave, her plea agreement says. Burgess initiated $76,270 in fraudulent electronic transfers, but $50,000 was later returned to the victim.
-
-Burgess also deposited counterfeit checks bearing the victim’s name, forged electronic signature and account number, costing the victim $1,200
-
-Burgess is scheduled to be sentenced on December 3. Bank fraud is punishable by up to 30 years in prison, a fine of up to $1 million or both prison and fine and possession of stolen mail matter carries a penalty of up to five years and a $250,000 fine. Aggravated identity theft is punishable by a mandatory two years in prison, consecutive to the prison sentence for all other charges.
-
-She will also be ordered to repay the money.
-
-The U.S. Postal Inspection Service, the Arnold Police Department and the Jefferson County Sheriff’s Office investigated the case. Assistant U.S. Attorney Justin Ladendorf is prosecuting the case.
+ST. LOUIS – A woman from Franklin County, Missouri on Wednesday admitted using stolen mail to commit bank and check fraud. Miranda Burgess, 30, pleaded guilty to all 13 counts that she faces: one count of aggravated identity theft, three counts of possession of stolen mail and nine counts of bank fraud. As early as Feb. 1, 2022, Burgess obtained mail that had been stolen from a Missouri victim, including mail with information about the victim’s bank accounts. Burgess used that information to transfer funds from the victim’s bank to her own accounts with Acorns, Green Dot, M1 Finance, Square and Wave, her plea agreement says. Burgess initiated $76,270 in fraudulent electronic transfers, but $50,000 was later returned to the victim. Burgess also deposited counterfeit checks bearing the victim’s name, forged electronic signature and account number, costing the victim $1,200 Burgess is scheduled to be sentenced on December 3. Bank fraud is punishable by up to 30 years in prison, a fine of up to $1 million or both prison and fine and possession of stolen mail matter carries a penalty of up to five years and a $250,000 fine. Aggravated identity theft is punishable by a mandatory two years in prison, consecutive to the prison sentence for all other charges. She will also be ordered to repay the money. The U.S. Postal Inspection Service, the Arnold Police Department and the Jefferson County Sheriff’s Office investigated the case. Assistant U.S. Attorney Justin Ladendorf is prosecuting the case.
 
 ## changed
 

@@ -6,15 +6,7 @@
 
 ## body
 
-**PORTLAND, Maine:**An Atlanta, Georgia man pleaded guilty today in U.S. District Court in Portland to conspiring to commit bank fraud.
-
-According to court records, in March 2022,**Rasheed Colbert**, 32, and a coconspirator,**Mantavious Jones**, stole checks from the mailboxes of local businesses then used the stolen checks to create counterfeit checks. Unhoused individuals who could provide identification were recruited for what they were told was a job in exchange for money. Counterfeit checks were made payable to the individuals, and they were provided with work-style clothing and driven to bank branches to cash the checks. Colbert and Jones netted just under $70,000 from the cashed counterfeit checks.
-
-**Rasheed Colbert**faces up to 30 years imprisonment and a maximum fine of $1 million, followed by up to five years of supervised release. A federal district judge will determine any sentence after considering the U.S. Sentencing Guidelines and other statutory factors.**Mantavious Jones**, 35, also of Atlanta, is currently serving 16 months in prison for his role in the scheme.
-
-The New England Cyber Fraud Task Force and Kennebunk Police Department investigated the case with valuable assistance from the Saco and Scarborough police departments.
-
-**###**
+**PORTLAND, Maine:**An Atlanta, Georgia man pleaded guilty today in U.S. District Court in Portland to conspiring to commit bank fraud. According to court records, in March 2022,**Rasheed Colbert**, 32, and a coconspirator,**Mantavious Jones**, stole checks from the mailboxes of local businesses then used the stolen checks to create counterfeit checks. Unhoused individuals who could provide identification were recruited for what they were told was a job in exchange for money. Counterfeit checks were made payable to the individuals, and they were provided with work-style clothing and driven to bank branches to cash the checks. Colbert and Jones netted just under $70,000 from the cashed counterfeit checks. **Rasheed Colbert**faces up to 30 years imprisonment and a maximum fine of $1 million, followed by up to five years of supervised release. A federal district judge will determine any sentence after considering the U.S. Sentencing Guidelines and other statutory factors.**Mantavious Jones**, 35, also of Atlanta, is currently serving 16 months in prison for his role in the scheme. The New England Cyber Fraud Task Force and Kennebunk Police Department investigated the case with valuable assistance from the Saco and Scarborough police departments. **###**
 
 ## changed
 

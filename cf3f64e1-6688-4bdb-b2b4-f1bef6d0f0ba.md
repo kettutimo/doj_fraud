@@ -6,13 +6,7 @@
 
 ## body
 
-FRESNO, Calif. — Gabriel Ruiz De Chavez, 47, of Fresno, was sentenced Monday by U.S. District Judge Troy L. Nunley to two years and nine months in prison for a multiyear embezzlement scheme and ordered to pay over $1.5 million in restitution, U.S. Attorney Phillip A. Talbert announced.
-
-In July 2024, Ruiz De Chavez pleaded guilty to wire fraud. According to court documents, from 2004 to 2020, Ruiz De Chavez worked as an operations manager for a Fresno-based trucking company. Between 2012 and 2019, Ruiz De Chavez used his position to generate fake invoices, purportedly created by genuine vendors for goods and services. He presented these fake invoices and corresponding checks made out to the real vendors with his employer’s signature. He would then deposit the checks into his own personal bank account.
-
-Once in his personal bank account, Ruiz De Chavez used the funds to pay for personal expenses including credit card payments, cash withdrawals, mortgage payments, vacations, and car loans. He was able to continue the scheme without notice because of the trusted position he held at the company. Ruiz De Chavez created more than 600 fake invoices and checks, causing $1,561,000 to be transferred into his account from his employer.
-
-This case was the product of an investigation by the Federal Bureau of Investigation and the Fresno Police Department. Assistant U.S. Attorney Cody S. Chapple prosecuted the case.
+FRESNO, Calif. — Gabriel Ruiz De Chavez, 47, of Fresno, was sentenced Monday by U.S. District Judge Troy L. Nunley to two years and nine months in prison for a multiyear embezzlement scheme and ordered to pay over $1.5 million in restitution, U.S. Attorney Phillip A. Talbert announced. In July 2024, Ruiz De Chavez pleaded guilty to wire fraud. According to court documents, from 2004 to 2020, Ruiz De Chavez worked as an operations manager for a Fresno-based trucking company. Between 2012 and 2019, Ruiz De Chavez used his position to generate fake invoices, purportedly created by genuine vendors for goods and services. He presented these fake invoices and corresponding checks made out to the real vendors with his employer’s signature. He would then deposit the checks into his own personal bank account. Once in his personal bank account, Ruiz De Chavez used the funds to pay for personal expenses including credit card payments, cash withdrawals, mortgage payments, vacations, and car loans. He was able to continue the scheme without notice because of the trusted position he held at the company. Ruiz De Chavez created more than 600 fake invoices and checks, causing $1,561,000 to be transferred into his account from his employer. This case was the product of an investigation by the Federal Bureau of Investigation and the Fresno Police Department. Assistant U.S. Attorney Cody S. Chapple prosecuted the case.
 
 ## changed
 

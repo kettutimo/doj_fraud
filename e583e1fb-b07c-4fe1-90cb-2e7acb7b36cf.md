@@ -6,15 +6,7 @@
 
 ## body
 
-MARTINSBURG, WEST VIRGINIA – Frame, Inc., a construction service company operating in West Virginia and Florida, has paid restitution of $187, 286 for defrauding the federal government.
-
-Frame, Inc., operated by James Frame, Sr., 66, formerly of Charleston, West Virginia, was contracted by EMCOR Facilities Services, Inc. to manage subcontractors and the negotiation of costs for repairs and construction work at U.S. Postal Service (USPS) locations within a 150-mile radius of Charleston, West Virginia. Frame, Inc. committed wire fraud when it submitted bills for supposed services with rates above what was being charged by the subcontractors, and many times certifying that Frame, Inc. conducted the work, when in fact, a subcontractor had been used. Much of the work was done on USPS locations in Berkeley, Jefferson, Morgan, Hampshire, and Mineral Counties.
-
-As a part of the plea agreement, Frame agreed to dissolve the corporation.
-
-Assistant U.S. Attorney Kimberley Crockett prosecuted the case on behalf of the government.
-
-This case was investigated by the United States Postal Service Office of Inspector General.
+MARTINSBURG, WEST VIRGINIA – Frame, Inc., a construction service company operating in West Virginia and Florida, has paid restitution of $187, 286 for defrauding the federal government. Frame, Inc., operated by James Frame, Sr., 66, formerly of Charleston, West Virginia, was contracted by EMCOR Facilities Services, Inc. to manage subcontractors and the negotiation of costs for repairs and construction work at U.S. Postal Service (USPS) locations within a 150-mile radius of Charleston, West Virginia. Frame, Inc. committed wire fraud when it submitted bills for supposed services with rates above what was being charged by the subcontractors, and many times certifying that Frame, Inc. conducted the work, when in fact, a subcontractor had been used. Much of the work was done on USPS locations in Berkeley, Jefferson, Morgan, Hampshire, and Mineral Counties. As a part of the plea agreement, Frame agreed to dissolve the corporation. Assistant U.S. Attorney Kimberley Crockett prosecuted the case on behalf of the government. This case was investigated by the United States Postal Service Office of Inspector General.
 
 ## changed
 

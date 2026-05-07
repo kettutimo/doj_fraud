@@ -6,21 +6,7 @@
 
 ## body
 
-NEWARK, N.J. – The founder and executive chairman of a now-defunct beverage company was sentenced yesterday for lying to solicit investments, Senior Counsel Philip Lamparello announced.
-
-Todd O’Gara, 46, of Austin, Texas and Reno, Nevada previously pled guilty to one count of wire fraud before U.S. District Court Judge Stanley R. Chesler in Newark federal court. Judge Chesler sentenced O’Gara to serve 51 months in prison, followed by 3 years of supervised release.
-
-According to documents filed in this case and statements made in court:
-
-O’Gara, who founded and managed a beverage company, Wanu Water, Inc., raised over $6.6 million dollars from individual victim investors. O’Gara repeatedly lied to solicit those investments and to encourage investors to maintain their investments. Among other things, O’Gara lied about the size of purchase orders from retailers and about major investments from private equity firms. As part of this fraudulent scheme, O’Gara sent investors fake documents including doctored emails and forged term sheets.
-
-Senior Counsel Lamparello credited special agents of the FBI, under the direction of Special Agent in Charge Stephanie Roddy, Newark Field Division, with the investigation.
-
-The government is represented by Assistant U.S. Attorney Aaron L. Webman, Deputy Chief of the Economic Crimes Unit in Newark.
-
-###
-
-Defense counsel: John Yauch and Shaiba Rather, Newark, New Jersey
+NEWARK, N.J. – The founder and executive chairman of a now-defunct beverage company was sentenced yesterday for lying to solicit investments, Senior Counsel Philip Lamparello announced. Todd O’Gara, 46, of Austin, Texas and Reno, Nevada previously pled guilty to one count of wire fraud before U.S. District Court Judge Stanley R. Chesler in Newark federal court. Judge Chesler sentenced O’Gara to serve 51 months in prison, followed by 3 years of supervised release. According to documents filed in this case and statements made in court: O’Gara, who founded and managed a beverage company, Wanu Water, Inc., raised over $6.6 million dollars from individual victim investors. O’Gara repeatedly lied to solicit those investments and to encourage investors to maintain their investments. Among other things, O’Gara lied about the size of purchase orders from retailers and about major investments from private equity firms. As part of this fraudulent scheme, O’Gara sent investors fake documents including doctored emails and forged term sheets. Senior Counsel Lamparello credited special agents of the FBI, under the direction of Special Agent in Charge Stephanie Roddy, Newark Field Division, with the investigation. The government is represented by Assistant U.S. Attorney Aaron L. Webman, Deputy Chief of the Economic Crimes Unit in Newark. ### Defense counsel: John Yauch and Shaiba Rather, Newark, New Jersey
 
 ## changed
 

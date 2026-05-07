@@ -6,17 +6,7 @@
 
 ## body
 
-ALBANY, NEW YORK – Markhwan Berning, age 37, of Saratoga Springs, New York, pled guilty today to misusing a social security number.
-
-The announcement was made by Acting United States Attorney Antoinette T. Bacon and Nikitas Splagounias, Acting Special Agent in Charge, New York Region, United States Department of Labor, Office of Inspector General (DOL-OIG).
-
-In pleading guilty, Berning admitted that between May and July 2020, he obtained unemployment insurance benefits, including federal pandemic-related benefits, by falsely presenting to the New York State Department of Labor a fake social security number as his own.
-
-At sentencing, Berning faces a maximum of 5 years in prison, a term of supervised release of up to 3 years, and a maximum $250,000 fine. Berning is scheduled to be sentenced on October 16, 2021, by Senior United States District Judge Lawrence A. Kahn.  A defendant’s sentence is imposed by a judge based on the particular statute the defendant is charged with violating, the U.S. Sentencing Guidelines and other factors.
-
-This case was investigated by DOL-OIG, with assistance from the Federal Bureau of Investigation and the New York State Department of Labor, Office of Special Investigations, and is being prosecuted by Assistant U.S. Attorney Joshua R. Rosenthal.
-
-This case is being investigated as part of the Department of Justice’s COVID Fraud Task Force. To learn more about the Department’s efforts to stop illegal COVID-19-related activity, visithttps://www.justice.gov/coronavirus.  The public is urged to report suspected fraud schemes related to COVID-19 to the National Center for Disaster Fraud (NCDF) hotline by phone at (1-866-720-5721) or via an online reporting form available at:https://www.justice.gov/disaster-fraud/ncdf-disaster-complaint-form
+ALBANY, NEW YORK – Markhwan Berning, age 37, of Saratoga Springs, New York, pled guilty today to misusing a social security number. The announcement was made by Acting United States Attorney Antoinette T. Bacon and Nikitas Splagounias, Acting Special Agent in Charge, New York Region, United States Department of Labor, Office of Inspector General (DOL-OIG). In pleading guilty, Berning admitted that between May and July 2020, he obtained unemployment insurance benefits, including federal pandemic-related benefits, by falsely presenting to the New York State Department of Labor a fake social security number as his own. At sentencing, Berning faces a maximum of 5 years in prison, a term of supervised release of up to 3 years, and a maximum $250,000 fine. Berning is scheduled to be sentenced on October 16, 2021, by Senior United States District Judge Lawrence A. Kahn. A defendant’s sentence is imposed by a judge based on the particular statute the defendant is charged with violating, the U.S. Sentencing Guidelines and other factors. This case was investigated by DOL-OIG, with assistance from the Federal Bureau of Investigation and the New York State Department of Labor, Office of Special Investigations, and is being prosecuted by Assistant U.S. Attorney Joshua R. Rosenthal. This case is being investigated as part of the Department of Justice’s COVID Fraud Task Force. To learn more about the Department’s efforts to stop illegal COVID-19-related activity, visithttps://www.justice.gov/coronavirus. The public is urged to report suspected fraud schemes related to COVID-19 to the National Center for Disaster Fraud (NCDF) hotline by phone at (1-866-720-5721) or via an online reporting form available at:https://www.justice.gov/disaster-fraud/ncdf-disaster-complaint-form
 
 ## changed
 

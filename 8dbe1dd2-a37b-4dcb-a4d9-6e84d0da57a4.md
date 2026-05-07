@@ -6,17 +6,7 @@
 
 ## body
 
-MISSOULA — A Belgrade woman on May 3 admitted to allegations that she embezzled what the government calculated to be more than $800,000 from her employer while working as an accountant and controller, U.S. Attorney Leif M. Johnson said today.
-
-Renae Swanson, 59, pleaded guilty to wire fraud. Swanson faces a maximum of 20 years in prison, a $250,000 fine and three years of supervised release.
-
-U.S. Magistrate Judge Kathleen L. DeSoto presided. Sentencing was set for Aug. 23 before U.S. District Judge Dana L. Christensen. The court will determine any sentence after considering the U.S. Sentencing Guidelines and other statutory factors. Swanson was released pending further proceedings.
-
-The government alleged in court documents that Swanson was an accountant and controller for Williams Plumbing & Heating. Swanson’s duties included uploading electronic payroll files to the bank for funding and processing payroll transactions to the company’s employees. From about December 2012 until May 2019, Swanson fraudulently altered that process, resulting in her increasing the amount of money she received from Williams Plumbing & Heating, none of which was authorized. The government calculated that Swanson embezzled approximately $805,013.
-
-Assistant U.S. Attorney Ryan G. Weldon is prosecuting the case, which was investigated by the FBI.
-
-XXX
+MISSOULA — A Belgrade woman on May 3 admitted to allegations that she embezzled what the government calculated to be more than $800,000 from her employer while working as an accountant and controller, U.S. Attorney Leif M. Johnson said today. Renae Swanson, 59, pleaded guilty to wire fraud. Swanson faces a maximum of 20 years in prison, a $250,000 fine and three years of supervised release. U.S. Magistrate Judge Kathleen L. DeSoto presided. Sentencing was set for Aug. 23 before U.S. District Judge Dana L. Christensen. The court will determine any sentence after considering the U.S. Sentencing Guidelines and other statutory factors. Swanson was released pending further proceedings. The government alleged in court documents that Swanson was an accountant and controller for Williams Plumbing & Heating. Swanson’s duties included uploading electronic payroll files to the bank for funding and processing payroll transactions to the company’s employees. From about December 2012 until May 2019, Swanson fraudulently altered that process, resulting in her increasing the amount of money she received from Williams Plumbing & Heating, none of which was authorized. The government calculated that Swanson embezzled approximately $805,013. Assistant U.S. Attorney Ryan G. Weldon is prosecuting the case, which was investigated by the FBI. XXX
 
 ## changed
 

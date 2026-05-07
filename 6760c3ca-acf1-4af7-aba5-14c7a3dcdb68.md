@@ -6,15 +6,7 @@
 
 ## body
 
-**BANGOR, Maine:**A California man was sentenced today in U.S. District Court in Bangor for conspiring to distribute methamphetamine and money laundering.
-
-U.S. District Judge Stacey D. Neumann sentenced**Alex Hanna**, 31, to 138 months in prison to be followed by five years of supervised release. Hanna pleaded guilty on March 14, 2024.
-
-According to court records, between May 2022 and March 2023, Hanna and others trafficked methamphetamine in Downeast Maine, receiving the drugs by mail from a source in California. Hanna coordinated drug shipments from the source and found coconspirators in Maine willing to receive the packages. He also sent the sales proceeds to the source via Walmart2Walmart, Cash App and Venmo, using coconspirators’ identifications and accounts to conceal his involvement in the transactions.
-
-The FBI investigated the case with assistance from the U.S. Postal Inspection Service, Ellsworth Police Department, Maine Drug Enforcement Agency, Holden Police Department, and Hancock County Sheriff’s Office.
-
-**###**
+**BANGOR, Maine:**A California man was sentenced today in U.S. District Court in Bangor for conspiring to distribute methamphetamine and money laundering. U.S. District Judge Stacey D. Neumann sentenced**Alex Hanna**, 31, to 138 months in prison to be followed by five years of supervised release. Hanna pleaded guilty on March 14, 2024. According to court records, between May 2022 and March 2023, Hanna and others trafficked methamphetamine in Downeast Maine, receiving the drugs by mail from a source in California. Hanna coordinated drug shipments from the source and found coconspirators in Maine willing to receive the packages. He also sent the sales proceeds to the source via Walmart2Walmart, Cash App and Venmo, using coconspirators’ identifications and accounts to conceal his involvement in the transactions. The FBI investigated the case with assistance from the U.S. Postal Inspection Service, Ellsworth Police Department, Maine Drug Enforcement Agency, Holden Police Department, and Hancock County Sheriff’s Office. **###**
 
 ## changed
 

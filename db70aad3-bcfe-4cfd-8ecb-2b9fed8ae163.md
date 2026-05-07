@@ -6,27 +6,7 @@
 
 ## body
 
-**Second Defendant Pleads Guilty for Role in $10 Million**
-
-**International Fraudulent Market Survey Conspiracy**
-
-CONCORD – An Alabama man pleaded guilty today for his role in an international scheme to sell fraudulent market survey data, U.S. Attorney Erin Creegan announces.
-
-Daniel Harriman, 39, pleaded guilty to one count of conspiracy to commit wire fraud. U.S. District Judge Landya B. McCafferty scheduled sentencing for June 15, 2026.
-
-According to the public record, Op4G and Slice were market research companies based in New Hampshire and Illinois, respectively.  Clients would hire the companies to conduct market research surveys. As part of their business model, Op4G and Slice maintained “panels” consisting of individuals potentially eligible to take surveys.  Stoudt initially worked for Op4G before moving over to Slice.
-
-In 2014, several conspirators, including Harriman, decided to increase company revenues by generating fabricated survey data.  To execute the scheme, the conspirators recruited “ants”, who pretended to be legitimate survey takers but instead were paid a nominal fee for completing surveys that produced false market research data. Some of the conspirators even served as “ants” and fraudulently took large quantities of surveys themselves, receiving significant payments.
-
-To evade detection, the conspirators exchanged instructions with each other and the “ants.”  These instructions included directions on how to answer survey screener questions, provided parameters on how long “ants” should remain on surveys, and encouraged the use of virtual private network (VPN) services to conceal real IP addresses.
-
-Between 2014 and the beginning of 2025, Op4G and Slice billed over $10 million to clients for work tainted with fraudulent survey data.  In more recent years, false market research data was used to generate approximately 90% of Op4G and Slice’s revenues.
-
-The charging statute provides a sentence of no greater than 20 years in prison, up to 3 years of supervised release, and a maximum fine of $250,000 or twice the gross gain or loss, whichever is greater.  Sentences are imposed by a federal district court judge based upon the U.S. Sentencing Guidelines and statutes which govern the determination of a sentence in a criminal case.
-
-The FBI led the investigation.  Assistant U.S. Attorney Alexander S. Chen is prosecuting the case.
-
-Co-defendant Frank Hayden pleaded guilty on February 2, 2026 and is scheduled to be sentenced on May 12, 2026.
+**Second Defendant Pleads Guilty for Role in $10 Million** **International Fraudulent Market Survey Conspiracy** CONCORD – An Alabama man pleaded guilty today for his role in an international scheme to sell fraudulent market survey data, U.S. Attorney Erin Creegan announces. Daniel Harriman, 39, pleaded guilty to one count of conspiracy to commit wire fraud. U.S. District Judge Landya B. McCafferty scheduled sentencing for June 15, 2026. According to the public record, Op4G and Slice were market research companies based in New Hampshire and Illinois, respectively. Clients would hire the companies to conduct market research surveys. As part of their business model, Op4G and Slice maintained “panels” consisting of individuals potentially eligible to take surveys. Stoudt initially worked for Op4G before moving over to Slice. In 2014, several conspirators, including Harriman, decided to increase company revenues by generating fabricated survey data. To execute the scheme, the conspirators recruited “ants”, who pretended to be legitimate survey takers but instead were paid a nominal fee for completing surveys that produced false market research data. Some of the conspirators even served as “ants” and fraudulently took large quantities of surveys themselves, receiving significant payments. To evade detection, the conspirators exchanged instructions with each other and the “ants.” These instructions included directions on how to answer survey screener questions, provided parameters on how long “ants” should remain on surveys, and encouraged the use of virtual private network (VPN) services to conceal real IP addresses. Between 2014 and the beginning of 2025, Op4G and Slice billed over $10 million to clients for work tainted with fraudulent survey data. In more recent years, false market research data was used to generate approximately 90% of Op4G and Slice’s revenues. The charging statute provides a sentence of no greater than 20 years in prison, up to 3 years of supervised release, and a maximum fine of $250,000 or twice the gross gain or loss, whichever is greater. Sentences are imposed by a federal district court judge based upon the U.S. Sentencing Guidelines and statutes which govern the determination of a sentence in a criminal case. The FBI led the investigation. Assistant U.S. Attorney Alexander S. Chen is prosecuting the case. Co-defendant Frank Hayden pleaded guilty on February 2, 2026 and is scheduled to be sentenced on May 12, 2026.
 
 ## changed
 

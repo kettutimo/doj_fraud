@@ -6,11 +6,7 @@
 
 ## body
 
-**NEW ORLEANS –**U.S. Attorney Duane A. Evans announced that**TONYA BUTLER (“BUTLER”)**, of Slidell, La., age 55, was sentenced on August 5, 2024, to four years of probation and 150 hours of community service by United States District Judge Jay C. Zainey for making false statements to the Railroad Retirement Board, in violation of Title 45, United States Code, Section 359(a).
-
-According to court records, from January 2022 to April 2022,**BUTLER**made false statements to the Railroad Retirement Board to obtain sickness benefits.  In truth,**BUTLER**was working full-time for an interstate trucking company.  Her false statements caused a loss of approximately $7,345.52.**BUTLER**also received short term disability benefits and COVID-19 related funds, to which she was not entitled, in the approximate amount of $62,000.
-
-U.S. Attorney Evans praised the work of Amtrak – Office of Inspector General and the Railroad Retirement Board - Office of Inspector General in investigating this matter.  Assistant U.S. Attorney Edward J. Rivera of the Financial Crimes Unit was in charge of the prosecution.
+**NEW ORLEANS –**U.S. Attorney Duane A. Evans announced that**TONYA BUTLER (“BUTLER”)**, of Slidell, La., age 55, was sentenced on August 5, 2024, to four years of probation and 150 hours of community service by United States District Judge Jay C. Zainey for making false statements to the Railroad Retirement Board, in violation of Title 45, United States Code, Section 359(a). According to court records, from January 2022 to April 2022,**BUTLER**made false statements to the Railroad Retirement Board to obtain sickness benefits. In truth,**BUTLER**was working full-time for an interstate trucking company. Her false statements caused a loss of approximately $7,345.52.**BUTLER**also received short term disability benefits and COVID-19 related funds, to which she was not entitled, in the approximate amount of $62,000. U.S. Attorney Evans praised the work of Amtrak – Office of Inspector General and the Railroad Retirement Board - Office of Inspector General in investigating this matter. Assistant U.S. Attorney Edward J. Rivera of the Financial Crimes Unit was in charge of the prosecution.
 
 ## changed
 

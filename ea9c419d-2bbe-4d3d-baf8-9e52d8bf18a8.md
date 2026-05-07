@@ -6,13 +6,7 @@
 
 ## body
 
-MADISON, WIS. – Timothy M. O’Shea, Acting United States Attorney for the Western District of Wisconsin, announced that Dr. Ravi Murali, 39, formerly of Edgerton, Wisconsin, was sentenced today by Chief U.S. District Judge James D. Peterson to 54 months in federal prison for Dr. Murali’s role in a scheme to defraud Medicare.  Dr. Murali pleaded guilty to this charge on March 31, 2021.
-
-Dr. Murali wrote thousands of fraudulent orders for Durable Medical Equipment (DME).  Other participants in the scheme used Dr. Murali’s fraudulent orders to bill Medicare $26,000,000 of which Medicare paid $13,000,000.
-
-At sentencing, Chief Judge Peterson emphasized that a severe sentence was necessary to deter other providers who were considering whether to defraud Medicare and other federal programs.  Further, Chief Judge Peterson noted that Dr. Murali’s history of dishonesty—he was previously disciplined by the Wisconsin Medical Examining Board for creating a fraudulent diploma to falsely claim that he completed residency—cut in favor of a longer sentence.
-
-The charge against Dr. Murali was the result of an investigation conducted by the U.S. Department of Health & Human Services, Office of Inspector General and the Federal Bureau of Investigation.  Assistant U.S. Attorney Zachary J. Corey handled the prosecution.
+MADISON, WIS. – Timothy M. O’Shea, Acting United States Attorney for the Western District of Wisconsin, announced that Dr. Ravi Murali, 39, formerly of Edgerton, Wisconsin, was sentenced today by Chief U.S. District Judge James D. Peterson to 54 months in federal prison for Dr. Murali’s role in a scheme to defraud Medicare. Dr. Murali pleaded guilty to this charge on March 31, 2021. Dr. Murali wrote thousands of fraudulent orders for Durable Medical Equipment (DME). Other participants in the scheme used Dr. Murali’s fraudulent orders to bill Medicare $26,000,000 of which Medicare paid $13,000,000. At sentencing, Chief Judge Peterson emphasized that a severe sentence was necessary to deter other providers who were considering whether to defraud Medicare and other federal programs. Further, Chief Judge Peterson noted that Dr. Murali’s history of dishonesty—he was previously disciplined by the Wisconsin Medical Examining Board for creating a fraudulent diploma to falsely claim that he completed residency—cut in favor of a longer sentence. The charge against Dr. Murali was the result of an investigation conducted by the U.S. Department of Health & Human Services, Office of Inspector General and the Federal Bureau of Investigation. Assistant U.S. Attorney Zachary J. Corey handled the prosecution.
 
 ## changed
 

@@ -6,25 +6,7 @@
 
 ## body
 
-MIAMI – A Romanian national illegally present in the U.S. pleaded guilty in Miami federal court on Oct. 20 to participating in a concealment money laundering scheme operating out of South Florida.
-
-According to court documents, Dan Flaviu Komuves, 28, admitted to laundering the illegal proceeds of a nationwide online auction fraud scheme that targeted U.S. citizens who believed they were purchasing high-value vehicles, boats, and tractors through online auction platforms. In reality, the listings were part of an elaborate scam that deceived victims into wiring money to accounts opened by Komuves in South Florida.
-
-To facilitate the scheme, Komuves used eight shell companies, false identities, and counterfeit identity documents—including fake passports—to open bank accounts and conceal his true identity. Once victims’ funds were deposited, Komuves withdrew large amounts of cash from multiple accounts, often visiting several branches on the same day to prevent recovery of the funds and to conceal the nature, location, and control of the proceeds.
-
-Komuves admitted to laundering more than $1 million dollars between March and August of 2024. Komuves was taken into custody in June after previously pleading guilty to illegal reentry in California.
-
-Komuves admitted to laundering more than $1 million dollars between March and August of 2024. Komuves was taken into custody in June after previously pleading guilty to illegal reentry in California.
-
-U.S. Attorney Jason A. Reding Quiñones for the Southern District of Florida and Acting Special Agent in Charge José R. Figueroa of Homeland Security Investigations (HSI) Miami made the announcement.
-
-HSI Miami and HSI Salt Lake City are investigating the case with help from U.S. Secret Service.
-
-Assistant U.S. Attorney Jon Juenger is prosecuting the case.
-
-Related court documents and information may be found on the website of the District Court for the Southern District of Florida athttp://www.flsd.uscourts.govor athttp://pacer.flsd.uscourts.gov, under case number 25-cr-20286.
-
-###
+MIAMI – A Romanian national illegally present in the U.S. pleaded guilty in Miami federal court on Oct. 20 to participating in a concealment money laundering scheme operating out of South Florida. According to court documents, Dan Flaviu Komuves, 28, admitted to laundering the illegal proceeds of a nationwide online auction fraud scheme that targeted U.S. citizens who believed they were purchasing high-value vehicles, boats, and tractors through online auction platforms. In reality, the listings were part of an elaborate scam that deceived victims into wiring money to accounts opened by Komuves in South Florida. To facilitate the scheme, Komuves used eight shell companies, false identities, and counterfeit identity documents—including fake passports—to open bank accounts and conceal his true identity. Once victims’ funds were deposited, Komuves withdrew large amounts of cash from multiple accounts, often visiting several branches on the same day to prevent recovery of the funds and to conceal the nature, location, and control of the proceeds. Komuves admitted to laundering more than $1 million dollars between March and August of 2024. Komuves was taken into custody in June after previously pleading guilty to illegal reentry in California. Komuves admitted to laundering more than $1 million dollars between March and August of 2024. Komuves was taken into custody in June after previously pleading guilty to illegal reentry in California. U.S. Attorney Jason A. Reding Quiñones for the Southern District of Florida and Acting Special Agent in Charge José R. Figueroa of Homeland Security Investigations (HSI) Miami made the announcement. HSI Miami and HSI Salt Lake City are investigating the case with help from U.S. Secret Service. Assistant U.S. Attorney Jon Juenger is prosecuting the case. Related court documents and information may be found on the website of the District Court for the Southern District of Florida athttp://www.flsd.uscourts.govor athttp://pacer.flsd.uscourts.gov, under case number 25-cr-20286. ###
 
 ## changed
 

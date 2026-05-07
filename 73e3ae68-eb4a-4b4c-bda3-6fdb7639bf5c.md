@@ -6,13 +6,7 @@
 
 ## body
 
-Orlando, Florida – United States Attorney Roger B. Handberg announces that a federal jury has found Amaris Marie Delapena (50, Windermere) guilty of 15 counts of wire fraud and 22 counts of bank fraud. Delapena faces a maximum penalty of 30 years in federal prison for each count of bank fraud and up to 20 years’ imprisonment for each count of wire fraud. Her sentencing hearing is set for February 19, 2025.
-
-According to evidence and testimony presented during the four-day trial, Delapena used illegal wire transfers and check deposits to embezzle funds during her employment as a paralegal for an Orlando law firm. Her fraud centered on re-routing checks from and to law firm clients and vendors into accounts Delapena controlled and transferring client payments from the law firm’s account to accounts Delapena controlled.
-
-Between the time Delapena committed the offenses and her trial, she earned a law degree and became a licensed attorney in Florida.
-
-This case was investigated by the United States Secret Service. It is being prosecuted by Assistant United States Attorney Adam J. Nate.
+Orlando, Florida – United States Attorney Roger B. Handberg announces that a federal jury has found Amaris Marie Delapena (50, Windermere) guilty of 15 counts of wire fraud and 22 counts of bank fraud. Delapena faces a maximum penalty of 30 years in federal prison for each count of bank fraud and up to 20 years’ imprisonment for each count of wire fraud. Her sentencing hearing is set for February 19, 2025. According to evidence and testimony presented during the four-day trial, Delapena used illegal wire transfers and check deposits to embezzle funds during her employment as a paralegal for an Orlando law firm. Her fraud centered on re-routing checks from and to law firm clients and vendors into accounts Delapena controlled and transferring client payments from the law firm’s account to accounts Delapena controlled. Between the time Delapena committed the offenses and her trial, she earned a law degree and became a licensed attorney in Florida. This case was investigated by the United States Secret Service. It is being prosecuted by Assistant United States Attorney Adam J. Nate.
 
 ## changed
 

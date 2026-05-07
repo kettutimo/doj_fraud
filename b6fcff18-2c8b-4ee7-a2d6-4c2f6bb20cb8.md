@@ -6,17 +6,7 @@
 
 ## body
 
-MISSOULA — The former executive director of the Whitefish Housing Authority was sentenced today to four months in prison and four months of home confinement, to be followed by three years of supervised release, and ordered to pay $144,842 for embezzling from the organization, which receives federal funds from the U.S. Department of Housing and Urban Development, U.S. Attorney Jesse Laslovich said.
-
-The defendant, Dwarne Lamont Hawkins, 46, of Fairview Heights, Illinois, pleaded guilty in October 2024 to theft from organization receiving federal funding.
-
-U.S. District Judge Donald W. Molloy presided. The court also ordered Hawkins to perform 200 hours of community service. Hawkins was allowed to self-report to the U.S. Bureau of Prisons.
-
-In court documents, the government alleged that from about May 2023 to January 2024, while working as the Whitefish Housing Authority’s executive director, Hawkins embezzled from the organization. The Whitefish Housing Authority provides safe, decent and affordable housing options for low-income families in the Whitefish community and received approximately $468,616 in federal funds from HUD during the period of the indictment. Hawkins stole housing authority money by diverting and inflating payroll, fraudulently paying personal expenses with the Whitefish Housing Authority credit card and creating and paying fraudulent invoices to businesses over which he had control. The investigation identified approximately $144,842 in restitution.
-
-The U.S. Attorney’s Office prosecuted the case.  The U.S. Department of Housing and Urban Development, Office of Inspector General conducted the investigation.
-
-XXX
+MISSOULA — The former executive director of the Whitefish Housing Authority was sentenced today to four months in prison and four months of home confinement, to be followed by three years of supervised release, and ordered to pay $144,842 for embezzling from the organization, which receives federal funds from the U.S. Department of Housing and Urban Development, U.S. Attorney Jesse Laslovich said. The defendant, Dwarne Lamont Hawkins, 46, of Fairview Heights, Illinois, pleaded guilty in October 2024 to theft from organization receiving federal funding. U.S. District Judge Donald W. Molloy presided. The court also ordered Hawkins to perform 200 hours of community service. Hawkins was allowed to self-report to the U.S. Bureau of Prisons. In court documents, the government alleged that from about May 2023 to January 2024, while working as the Whitefish Housing Authority’s executive director, Hawkins embezzled from the organization. The Whitefish Housing Authority provides safe, decent and affordable housing options for low-income families in the Whitefish community and received approximately $468,616 in federal funds from HUD during the period of the indictment. Hawkins stole housing authority money by diverting and inflating payroll, fraudulently paying personal expenses with the Whitefish Housing Authority credit card and creating and paying fraudulent invoices to businesses over which he had control. The investigation identified approximately $144,842 in restitution. The U.S. Attorney’s Office prosecuted the case. The U.S. Department of Housing and Urban Development, Office of Inspector General conducted the investigation. XXX
 
 ## changed
 

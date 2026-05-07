@@ -6,23 +6,7 @@
 
 ## body
 
-DENVER – The U.S. Attorney’s Office for the District of Colorado announced that Landon Perry Grier, 24, of Cañon City has been charged with interfering with a flight crew in violation of Title 49, United States Code, Section 46504.  Grier made his initial appearance in federal court in Denver yesterday, where he was advised of the charge against him and ordered released on conditions of pre-trial supervision.
-
-According to the facts contained in the complaint, on March 9, 2021, Grier was a passenger onboard Alaska Airlines flight 1474 traveling from Seattle to Denver.  During the flight, Grier was asked eight to ten times to put on a face mask, as required by airline policy.  Grier initially ignored the flight attendant, but then struck her arm.   Later, passengers notified a different flight attendant that Grier was urinating in his seat.  A flight attendant notified the captain.  When the captain was notified, he was preparing to land after declaring an emergency for an unrelated maintenance issue.
-
-Interfering with a flight crew carries a potential penalty of up to 20 years in prison and/or a fine of up to $250,000.
-
-The charge in the criminal complaint is an allegation and the defendant is presumed innocent until proven guilty.
-
-The investigation was conducted by the Federal Bureau of Investigation with substantial assistance from the Denver Police Department.  Assistant United States Attorneys Brad Giles and David Tonini are handling the prosecution.
-
-Case number:  21-mj-00038-MEH-1
-
-# # #
-
-Visit our websitehttp://www.justice.gov/usao/co| Follow us on Twitter@DCoNews
-
-Sign up for new releasesmailto:USACO.PublicAffairs@usdoj.gov
+DENVER – The U.S. Attorney’s Office for the District of Colorado announced that Landon Perry Grier, 24, of Cañon City has been charged with interfering with a flight crew in violation of Title 49, United States Code, Section 46504. Grier made his initial appearance in federal court in Denver yesterday, where he was advised of the charge against him and ordered released on conditions of pre-trial supervision. According to the facts contained in the complaint, on March 9, 2021, Grier was a passenger onboard Alaska Airlines flight 1474 traveling from Seattle to Denver. During the flight, Grier was asked eight to ten times to put on a face mask, as required by airline policy. Grier initially ignored the flight attendant, but then struck her arm. Later, passengers notified a different flight attendant that Grier was urinating in his seat. A flight attendant notified the captain. When the captain was notified, he was preparing to land after declaring an emergency for an unrelated maintenance issue. Interfering with a flight crew carries a potential penalty of up to 20 years in prison and/or a fine of up to $250,000. The charge in the criminal complaint is an allegation and the defendant is presumed innocent until proven guilty. The investigation was conducted by the Federal Bureau of Investigation with substantial assistance from the Denver Police Department. Assistant United States Attorneys Brad Giles and David Tonini are handling the prosecution. Case number: 21-mj-00038-MEH-1 # # # Visit our websitehttp://www.justice.gov/usao/co| Follow us on Twitter@DCoNews Sign up for new releasesmailto:USACO.PublicAffairs@usdoj.gov
 
 ## changed
 

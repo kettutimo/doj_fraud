@@ -6,15 +6,7 @@
 
 ## body
 
-JOHNSTOWN, Pa. – A resident of Windber, Pa., has been sentenced in federal court to 5 years’ probation for his convictions of conspiracy and interstate transportation of stolen property, Acting United States Attorney Stephen R. Kaufman announced today.
-
-United States District Judge Kim R. Gibson imposed the sentence on Bradley J. Charlton, 38, of Windber, Pa.
-
-According to information presented to the court, from Aug. 1, 2016, to Oct. 3, 2018, Charlton conspired with others to commit certain offenses against the United States, that is, to unlawfully transport, transmit and transfer in interstate commerce goods, wares and merchandise knowing the same to have been stolen, converted, and taken by fraud.
-
-Assistant United States Attorney Maureen Sheehan-Balchon. prosecuted this case on behalf of the government.
-
-Mr. Kaufman commended the Federal Bureau of Investigation, Laurel Highlands Resident Agency, the Cambria County Detective Bureau, and the Richland Township Police Department for the investigation that led to the successful prosecution of Charlton.
+JOHNSTOWN, Pa. – A resident of Windber, Pa., has been sentenced in federal court to 5 years’ probation for his convictions of conspiracy and interstate transportation of stolen property, Acting United States Attorney Stephen R. Kaufman announced today. United States District Judge Kim R. Gibson imposed the sentence on Bradley J. Charlton, 38, of Windber, Pa. According to information presented to the court, from Aug. 1, 2016, to Oct. 3, 2018, Charlton conspired with others to commit certain offenses against the United States, that is, to unlawfully transport, transmit and transfer in interstate commerce goods, wares and merchandise knowing the same to have been stolen, converted, and taken by fraud. Assistant United States Attorney Maureen Sheehan-Balchon. prosecuted this case on behalf of the government. Mr. Kaufman commended the Federal Bureau of Investigation, Laurel Highlands Resident Agency, the Cambria County Detective Bureau, and the Richland Township Police Department for the investigation that led to the successful prosecution of Charlton.
 
 ## changed
 

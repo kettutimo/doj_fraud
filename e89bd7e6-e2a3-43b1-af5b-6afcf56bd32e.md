@@ -6,15 +6,7 @@
 
 ## body
 
-TULSA, Okla. – Today, U.S. District Judge Sara E. Hill sentenced Christine Fletcher, 62, for Bank Fraud and Tax Evasion. Judge Hill ordered Fletcher to serve 36 months imprisonment, followed by three years of supervised release. She is further ordered to pay $2,188,870 to the victim and $549,964 to the IRS in restitution.
-
-According to court documents, Fletcher was a trusted assistant for over 38 years and worked directly for the business owner. Fletcher had access to several bank accounts and was often included in family affairs. She took advantage of her deeply trusted position by repeatedly embezzling funds for nearly ten years. Fletcher deposited funds into her personal accounts and paid personal credit card bills by forging the owner's deceased spouse's signature on hundreds of checks. Fletcher admitted that her motives were based solely on greed. She further admitted to agents that until she was confronted by the owner and fired, she had no idea how much she had stolen.
-
-Fletcherhttps://www.justice.gov/usao-ndok/pr/woman-who-embezzled-22-million-her-employer-admits-bank-fraud-tax-evasion-0and agreed that the restitution may not be discharged in any bankruptcy proceeding.
-
-Fletcher was permitted to remain on bond and voluntarily surrender to the U.S. Bureau of Prisons.
-
-The IRS Criminal Investigations and the U.S. Secret Service investigated the case. Assistant U.S. Attorney David D. Whipple and Thomas E. Buscemi prosecuted the case.
+TULSA, Okla. – Today, U.S. District Judge Sara E. Hill sentenced Christine Fletcher, 62, for Bank Fraud and Tax Evasion. Judge Hill ordered Fletcher to serve 36 months imprisonment, followed by three years of supervised release. She is further ordered to pay $2,188,870 to the victim and $549,964 to the IRS in restitution. According to court documents, Fletcher was a trusted assistant for over 38 years and worked directly for the business owner. Fletcher had access to several bank accounts and was often included in family affairs. She took advantage of her deeply trusted position by repeatedly embezzling funds for nearly ten years. Fletcher deposited funds into her personal accounts and paid personal credit card bills by forging the owner's deceased spouse's signature on hundreds of checks. Fletcher admitted that her motives were based solely on greed. She further admitted to agents that until she was confronted by the owner and fired, she had no idea how much she had stolen. agreed that the restitution may not be discharged in any bankruptcy proceeding. Fletcher was permitted to remain on bond and voluntarily surrender to the U.S. Bureau of Prisons. The IRS Criminal Investigations and the U.S. Secret Service investigated the case. Assistant U.S. Attorney David D. Whipple and Thomas E. Buscemi prosecuted the case.
 
 ## changed
 

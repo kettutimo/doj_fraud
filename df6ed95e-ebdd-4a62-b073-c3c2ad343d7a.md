@@ -6,15 +6,7 @@
 
 ## body
 
-CLARKSBURG, WEST VIRGINIA – Jessie Levi Pumphrey, age 31, of Clarksburg, West Virginia, was sentenced today to 92 months in federal prison for filing false insurance claims.
-
-According to court documents and statements made in court, Pumphrey worked with others to stage vehicle accidents in Preston County. Pumphrey and others then submitted false insurance claims for property damage and medical bills that were fraudulent.
-
-Assistant U.S. Attorney Andrew Cogar prosecuted the case on behalf of the government.
-
-The Federal Bureau of Investigation and the West Virginia Offices of the Insurance Commissioner – Office of Inspector General investigated.
-
-Chief U.S. District Judge Thomas S. Kleeh presided.
+CLARKSBURG, WEST VIRGINIA – Jessie Levi Pumphrey, age 31, of Clarksburg, West Virginia, was sentenced today to 92 months in federal prison for filing false insurance claims. According to court documents and statements made in court, Pumphrey worked with others to stage vehicle accidents in Preston County. Pumphrey and others then submitted false insurance claims for property damage and medical bills that were fraudulent. Assistant U.S. Attorney Andrew Cogar prosecuted the case on behalf of the government. The Federal Bureau of Investigation and the West Virginia Offices of the Insurance Commissioner – Office of Inspector General investigated. Chief U.S. District Judge Thomas S. Kleeh presided.
 
 ## changed
 

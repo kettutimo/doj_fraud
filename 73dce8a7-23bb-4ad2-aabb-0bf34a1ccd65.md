@@ -6,17 +6,7 @@
 
 ## body
 
-BUFFALO, N.Y. -- U.S. Attorney Trini E. Ross announced today that Corey Robert Dodge a/k/a Cakesbaylor, 42, of Buffalo, NY, pleaded guilty before U.S. District Judge John L. Sinatra, Jr. to possessing 15 or more unauthorized access devices with intent to defraud and possession with intent to distribute cocaine, which carry a maximum penalty of 20 years in prison and a $1,000,000 fine.
-
-Assistant U.S. Attorney Charles M. Kruly, who is handling the cases, stated that since August 2018, the FBI has been investigating an illicit online marketplace known as Genesis Market, whose operators compile stolen data, such as computer and mobile device identifiers, email addresses, usernames, and passwords, from malware-infected computers around the globe and package it for sale on the market. Purchases made through Genesis Market are conducted using virtual currency, such as bitcoin.
-
-Between March 26, 2020, and May 30, 2021, Dodge purchased 14 packages on Genesis Market, that included stolen account credentials. The stolen credentials included accounts for Paypal, Tracfone, eBay, Amazon, FedEx, Etsy, Walmart, Chase, Venmo, and eTrade. In addition, on April 3, 2023, the FBI executed a search warrant at Dodge’s residence to search for evidence related to his use of Genesis Marketplace. During the search, the FBI also found and seized quantities of fentanyl, cocaine, MDMA, ketamine, and drug paraphernalia.
-
-The plea is the result of an investigation by the Federal Bureau of Investigation, under the direction of Special Agent-in-Charge Matthew Miraglia.
-
-Sentencing is scheduled for April 29, 2025, before Judge Sinatra.
-
-# # # #
+BUFFALO, N.Y. -- U.S. Attorney Trini E. Ross announced today that Corey Robert Dodge a/k/a Cakesbaylor, 42, of Buffalo, NY, pleaded guilty before U.S. District Judge John L. Sinatra, Jr. to possessing 15 or more unauthorized access devices with intent to defraud and possession with intent to distribute cocaine, which carry a maximum penalty of 20 years in prison and a $1,000,000 fine. Assistant U.S. Attorney Charles M. Kruly, who is handling the cases, stated that since August 2018, the FBI has been investigating an illicit online marketplace known as Genesis Market, whose operators compile stolen data, such as computer and mobile device identifiers, email addresses, usernames, and passwords, from malware-infected computers around the globe and package it for sale on the market. Purchases made through Genesis Market are conducted using virtual currency, such as bitcoin. Between March 26, 2020, and May 30, 2021, Dodge purchased 14 packages on Genesis Market, that included stolen account credentials. The stolen credentials included accounts for Paypal, Tracfone, eBay, Amazon, FedEx, Etsy, Walmart, Chase, Venmo, and eTrade. In addition, on April 3, 2023, the FBI executed a search warrant at Dodge’s residence to search for evidence related to his use of Genesis Marketplace. During the search, the FBI also found and seized quantities of fentanyl, cocaine, MDMA, ketamine, and drug paraphernalia. The plea is the result of an investigation by the Federal Bureau of Investigation, under the direction of Special Agent-in-Charge Matthew Miraglia. Sentencing is scheduled for April 29, 2025, before Judge Sinatra. # # # #
 
 ## changed
 

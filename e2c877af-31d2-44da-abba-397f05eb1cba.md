@@ -6,13 +6,7 @@
 
 ## body
 
-ST. LOUIS – A St. Louis man on Monday admitted staging a series of vehicle accidents and injuries to defraud insurance companies.
-
-Adrian Peebles, 31, pleaded guilty to one count of mail fraud. Peebles admitted that from September of 2021 to January of 2023, he staged auto accidents, usually at night in remote areas to reduce his chances of getting caught. Peebles nearly always told the responding police officers that he had been injured. He went to the emergency room complaining of “non-determinative pain that required expensive tests that never identified any particular injury.” Peebles insisted that the resulting payments from the vehicle insurance companies be made to him rather than the hospital and then did not pay his medical bills. Two insurance companies lost a total of $107,951 to Peebles’ scheme.
-
-Peebles is scheduled to be sentenced on April 17.
-
-The FBI investigated the case. Assistant U.S. Attorney John Ware is prosecuting the case.
+ST. LOUIS – A St. Louis man on Monday admitted staging a series of vehicle accidents and injuries to defraud insurance companies. Adrian Peebles, 31, pleaded guilty to one count of mail fraud. Peebles admitted that from September of 2021 to January of 2023, he staged auto accidents, usually at night in remote areas to reduce his chances of getting caught. Peebles nearly always told the responding police officers that he had been injured. He went to the emergency room complaining of “non-determinative pain that required expensive tests that never identified any particular injury.” Peebles insisted that the resulting payments from the vehicle insurance companies be made to him rather than the hospital and then did not pay his medical bills. Two insurance companies lost a total of $107,951 to Peebles’ scheme. Peebles is scheduled to be sentenced on April 17. The FBI investigated the case. Assistant U.S. Attorney John Ware is prosecuting the case.
 
 ## changed
 

@@ -6,19 +6,7 @@
 
 ## body
 
-CLARKSBURG, WEST VIRGINIA – A businessman from Pennsylvania was sentenced to 46 months in prison today for stealing $3.5 million from a Morgantown construction company.
-
-Michael D. Allen, 60, of Irwin, Pennsylvania, pled guilty in November to wire fraud and money laundering. Allen, who had been the manager of Accelerated Construction Services, admitted that he used his position to divert $3.5 million in company funds for his own personal benefit.
-
-Allen spent $154,000 on vehicles, including a 2020 Range Rover, a 1954 Chevrolet 3100 truck, and a classic car restoration. He purchased a 5.19 carat diamond ring for $113,250 and spent an estimated $19,000 on other jewelry, $18,000 of which was used to purchase a Breitling watch.
-
-In addition to serving the prison sentence, Allen must pay $3.5 million in restitution to the company.
-
-Assistant U.S. Attorney Jarod J. Douglas prosecuted the case on behalf of the government.
-
-The Internal Revenue Service Criminal Investigations and the Monongalia County Sheriff’s Office investigated. The FBI assisted in the investigation.
-
-Chief U.S. District Judge Thomas S. Kleeh presided.
+CLARKSBURG, WEST VIRGINIA – A businessman from Pennsylvania was sentenced to 46 months in prison today for stealing $3.5 million from a Morgantown construction company. Michael D. Allen, 60, of Irwin, Pennsylvania, pled guilty in November to wire fraud and money laundering. Allen, who had been the manager of Accelerated Construction Services, admitted that he used his position to divert $3.5 million in company funds for his own personal benefit. Allen spent $154,000 on vehicles, including a 2020 Range Rover, a 1954 Chevrolet 3100 truck, and a classic car restoration. He purchased a 5.19 carat diamond ring for $113,250 and spent an estimated $19,000 on other jewelry, $18,000 of which was used to purchase a Breitling watch. In addition to serving the prison sentence, Allen must pay $3.5 million in restitution to the company. Assistant U.S. Attorney Jarod J. Douglas prosecuted the case on behalf of the government. The Internal Revenue Service Criminal Investigations and the Monongalia County Sheriff’s Office investigated. The FBI assisted in the investigation. Chief U.S. District Judge Thomas S. Kleeh presided.
 
 ## changed
 

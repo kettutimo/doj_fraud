@@ -6,15 +6,7 @@
 
 ## body
 
-ALBUQUERQUE, N.M. – George Martinez, 45, of Albuquerque, pleaded guilty in federal court today to 42 counts each of wire fraud and aggravated identity theft and six counts of money laundering. A federal grand jury indicted Martinez on March 12, 2021.
-
-According to the indictment and other court records, from May 18, 2011, through July 16, 2018, Martinez allegedly used his position as the Unit Supervisor/Bureau Chief of the Questionable Refund Unit at the New Mexico Taxation and Revenue Department to fraudulently alter tax refunds and direct them to bank accounts that he controlled.
-
-Martinez perpetrated the fraud by copying tax returns that had already been processed or creating new returns in taxpayers’ accounts. He altered information such as taxpayers’ Social Security numbers, bank account numbers and withholding amounts in the returns. By changing the withholding amounts, he increased the amounts of the refunds. Martinez fraudulently directed $689,797 into accounts in his control.
-
-Martinez faces a minimum of two years and up to 32 years in prison.
-
-The FBI Albuquerque Field Office and the IRS Criminal Investigation Phoenix Field Office investigated this case with assistance from the New Mexico Taxation and Revenue Department’s Tax Fraud Investigations Division. Assistant U.S. Attorneys Jeremy Peña and Paul Schied prosecuted the case.
+ALBUQUERQUE, N.M. – George Martinez, 45, of Albuquerque, pleaded guilty in federal court today to 42 counts each of wire fraud and aggravated identity theft and six counts of money laundering. A federal grand jury indicted Martinez on March 12, 2021. According to the indictment and other court records, from May 18, 2011, through July 16, 2018, Martinez allegedly used his position as the Unit Supervisor/Bureau Chief of the Questionable Refund Unit at the New Mexico Taxation and Revenue Department to fraudulently alter tax refunds and direct them to bank accounts that he controlled. Martinez perpetrated the fraud by copying tax returns that had already been processed or creating new returns in taxpayers’ accounts. He altered information such as taxpayers’ Social Security numbers, bank account numbers and withholding amounts in the returns. By changing the withholding amounts, he increased the amounts of the refunds. Martinez fraudulently directed $689,797 into accounts in his control. Martinez faces a minimum of two years and up to 32 years in prison. The FBI Albuquerque Field Office and the IRS Criminal Investigation Phoenix Field Office investigated this case with assistance from the New Mexico Taxation and Revenue Department’s Tax Fraud Investigations Division. Assistant U.S. Attorneys Jeremy Peña and Paul Schied prosecuted the case.
 
 ## changed
 

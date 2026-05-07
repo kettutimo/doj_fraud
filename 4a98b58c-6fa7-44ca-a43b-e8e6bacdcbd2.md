@@ -6,19 +6,7 @@
 
 ## body
 
-PITTSBURGH, Pa. – A resident of Pittsburgh, Pennsylvania, has been indicted by a federal grand jury in Pittsburgh on charges of wire fraud and money laundering, Acting United States Attorney Troy Rivetti announced today.
-
-The nine-count Indictment named Charles A. Richardson, 45, as the sole defendant.
-
-According to the Indictment, Richardson was employed as an information technology professional with the Pittsburgh-based philanthropic foundation The Heinz Endowments. Between 2016 and 2024, Richardson embezzled almost $1 million in funds from his employer through a shell corporation Richardson controlled and fraudulent invoices that billed the foundation for work not performed or performed by other vendors.
-
-The law provides for a maximum sentence of up to 20 years of imprisonment, a fine of up to $250,000 or twice the pecuniary gain associated with the offense, or both. Under the federal Sentencing Guidelines, the actual sentence imposed would be based upon the seriousness of the offenses and the prior criminal history, if any, of the defendant.
-
-Assistant United States Attorney Jeffrey R. Bengel is prosecuting this case on behalf of the government.
-
-The Federal Bureau of Investigation and Allegheny County District Attorney’s Office conducted the investigation resulting in the Indictment.
-
-An indictment is an accusation. A defendant is presumed innocent unless and until proven guilty.
+PITTSBURGH, Pa. – A resident of Pittsburgh, Pennsylvania, has been indicted by a federal grand jury in Pittsburgh on charges of wire fraud and money laundering, Acting United States Attorney Troy Rivetti announced today. The nine-count Indictment named Charles A. Richardson, 45, as the sole defendant. According to the Indictment, Richardson was employed as an information technology professional with the Pittsburgh-based philanthropic foundation The Heinz Endowments. Between 2016 and 2024, Richardson embezzled almost $1 million in funds from his employer through a shell corporation Richardson controlled and fraudulent invoices that billed the foundation for work not performed or performed by other vendors. The law provides for a maximum sentence of up to 20 years of imprisonment, a fine of up to $250,000 or twice the pecuniary gain associated with the offense, or both. Under the federal Sentencing Guidelines, the actual sentence imposed would be based upon the seriousness of the offenses and the prior criminal history, if any, of the defendant. Assistant United States Attorney Jeffrey R. Bengel is prosecuting this case on behalf of the government. The Federal Bureau of Investigation and Allegheny County District Attorney’s Office conducted the investigation resulting in the Indictment. An indictment is an accusation. A defendant is presumed innocent unless and until proven guilty.
 
 ## changed
 

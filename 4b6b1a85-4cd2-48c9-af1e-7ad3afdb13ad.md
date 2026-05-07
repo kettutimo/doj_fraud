@@ -6,25 +6,7 @@
 
 ## body
 
-WASHINGTON – An Idaho executive pleaded guilty to insider trading on the basis of material nonpublic information about an impending corporate acquisition.
-
-According to court documents, Michael Smith, 48, of Eagle, Idaho, served as the President and Chief Operating Officer of Company-1 since in or around June 2022. Company-1 was based in Idaho, and its shares were publicly traded on NASDAQ.
-
-By at least June 2024, by virtue of his position at Company-1, Smith received material nonpublic information (MNPI) regarding the impending acquisition of Company-1 by another company. Smith was subject to Company-1’s Insider Trading Policy that, among other things, prohibited employees from trading in Company-1’s stock if an employee possessed MNPI.
-
-On July 26, 2024, Smith bought Company-1 stock using a brokerage account belonging to Individual-A. Smith and Individual-A had a close personal relationship. Smith executed these trades on the basis of MNPI about the impending acquisition of Company-1 despite knowing that he was prohibited from trading Company-1 stock.
-
-On August 7, 2024, news of Company-1’s acquisition became public, and Company-1’s stock increased by nearly 50%. The next day, Smith sold the Company-1 stock he had purchased for Individual-A for a profit of approximately $145,754.69. Smith executed the trades to financially benefit Individual-A.
-
-Smith pleaded guilty to one count of securities fraud. He faces a maximum penalty of 20 years in prison. A federal district court judge will determine any sentence after considering the U.S. Sentencing Guidelines and other statutory factors.
-
-Acting Assistant Attorney General Matthew R. Galeotti of the Justice Department’s Criminal Division; U.S. Attorney Bart M. Davis for the District of Idaho; and Inspector in Charge Eric Shen of the U.S. Postal Inspection Service Criminal Investigations Group (USPIS-CI) made the announcement.
-
-USPIS-CI is investigating the case.
-
-Trial Attorneys Kyle Crawford and John Liolos of the Criminal Division’s Fraud Section and Assistant U.S. Attorney Sean Mazorol for the District of Idaho are prosecuting the case.
-
-**###**
+WASHINGTON – An Idaho executive pleaded guilty to insider trading on the basis of material nonpublic information about an impending corporate acquisition. According to court documents, Michael Smith, 48, of Eagle, Idaho, served as the President and Chief Operating Officer of Company-1 since in or around June 2022. Company-1 was based in Idaho, and its shares were publicly traded on NASDAQ. By at least June 2024, by virtue of his position at Company-1, Smith received material nonpublic information (MNPI) regarding the impending acquisition of Company-1 by another company. Smith was subject to Company-1’s Insider Trading Policy that, among other things, prohibited employees from trading in Company-1’s stock if an employee possessed MNPI. On July 26, 2024, Smith bought Company-1 stock using a brokerage account belonging to Individual-A. Smith and Individual-A had a close personal relationship. Smith executed these trades on the basis of MNPI about the impending acquisition of Company-1 despite knowing that he was prohibited from trading Company-1 stock. On August 7, 2024, news of Company-1’s acquisition became public, and Company-1’s stock increased by nearly 50%. The next day, Smith sold the Company-1 stock he had purchased for Individual-A for a profit of approximately $145,754.69. Smith executed the trades to financially benefit Individual-A. Smith pleaded guilty to one count of securities fraud. He faces a maximum penalty of 20 years in prison. A federal district court judge will determine any sentence after considering the U.S. Sentencing Guidelines and other statutory factors. Acting Assistant Attorney General Matthew R. Galeotti of the Justice Department’s Criminal Division; U.S. Attorney Bart M. Davis for the District of Idaho; and Inspector in Charge Eric Shen of the U.S. Postal Inspection Service Criminal Investigations Group (USPIS-CI) made the announcement. USPIS-CI is investigating the case. Trial Attorneys Kyle Crawford and John Liolos of the Criminal Division’s Fraud Section and Assistant U.S. Attorney Sean Mazorol for the District of Idaho are prosecuting the case. **###**
 
 ## changed
 

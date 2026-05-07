@@ -17,39 +17,7 @@
 
 ## body
 
-Damian Williams, the United States Attorney for the Southern District of New York, announced today the unsealing of a Complaint charging BRANDALENE HORN with mail fraud, wire fraud, and the interstate transportation of stolen property in connection with a scheme to defraud victim clothing rental companies by opening hundreds of accounts to rent women’s apparel and accessories, stealing those rented items, and selling them on an e-commerce marketplace.  HORN was arrested this morning in Freeland, Michigan, and she will be presented later today before U.S. Magistrate Judge Elizabeth Stafford in the Eastern District of Michigan.
-
-U.S. Attorney Damian Williams said: “As alleged, Brandalene Horn perpetrated a lucrative scheme in which she defrauded at least three victim companies, stole hundreds of thousands of dollars’ worth of luxury and designer items, and then sold those stolen items online.  Thanks to the work of the prosecutors and investigators of my Office, Horn now faces criminal federal charges for her alleged deceptive behavior and fraudulent activity.”
-
-As alleged in the Complaint filed in Manhattan federal court:#_ftn1
-
-From at least April 2022 through at least February 2024, HORN engaged in a fraud scheme that involved opening hundreds of accounts with at least three victim companies that offer subscription-based clothing rental services.  Those services enable customers to access and rent from the companies’ inventory of apparel and accessories, including luxury and designer items.  After receiving rental items, including pieces worth thousands of dollars, HORN kept, instead of returned, the items from the victim companies and sold them on an e-commerce marketplace.  HORN’s listings for the stolen items on the e-commerce marketplace often used the victim companies’ proprietary photographs and item descriptions that substantially matched the descriptions used by the victim companies.
-
-An image of HORN’s listing for a stolen designer dress on an e-commerce marketplace is below:
-
- 
-
-An image of a listing by one of the victim companies for this same designer dress is below:
-
- 
-
-Although the victim companies attempted to charge HORN for the items she stole, HORN avoided those charges by disputing them with her credit union or canceling the credit and debit cards she had provided to the victim companies.  HORN’s fraudulent activity caused the victim companies to flag or close her accounts, but HORN opened new accounts so she could continue stealing and selling luxury and designer goods.
-
-During this period, HORN stole over 1,000 items, valued at over $823,000, from the victim companies and sold over $750,000 worth of stolen items.
-
-*                *                *
-
-HORN, 42, of Freeland, Michigan, is charged with one count of mail fraud, which carries a maximum sentence of 20 years in prison; one count of wire fraud, which carries a maximum sentence of 20 years in prison; and one count of interstate transportation of stolen property, which carries a maximum sentence of 10 years in prison.
-
-The maximum potential sentences in this case are prescribed by Congress and are provided here for informational purposes only, as any sentencing of the defendant will be determined by a judge.
-
-Mr. Williams praised the exceptional investigative work of the Special Agents of the U.S. Attorney’s Office for the Southern District of New York.  Mr. Williams also thanked the New York State Police and the Michigan State Police for their assistance.
-
-This case is being handled by the Office’s General Crimes Unit.  Assistant U.S. Attorneys Connie L. Dang and Katherine Cheng are in charge of the prosecution.
-
-The charges contained in the Complaint are merely accusations, and the defendant is presumed innocent unless and until proven guilty.
-
-#_ftnref1As the introductory phrase signifies, the entirety of the text of the Complaint and the description of the Complaint set forth herein constitute only allegations, and every fact described should be treated as an allegation.
+Damian Williams, the United States Attorney for the Southern District of New York, announced today the unsealing of a Complaint charging BRANDALENE HORN with mail fraud, wire fraud, and the interstate transportation of stolen property in connection with a scheme to defraud victim clothing rental companies by opening hundreds of accounts to rent women’s apparel and accessories, stealing those rented items, and selling them on an e-commerce marketplace. HORN was arrested this morning in Freeland, Michigan, and she will be presented later today before U.S. Magistrate Judge Elizabeth Stafford in the Eastern District of Michigan. U.S. Attorney Damian Williams said: “As alleged, Brandalene Horn perpetrated a lucrative scheme in which she defrauded at least three victim companies, stole hundreds of thousands of dollars’ worth of luxury and designer items, and then sold those stolen items online. Thanks to the work of the prosecutors and investigators of my Office, Horn now faces criminal federal charges for her alleged deceptive behavior and fraudulent activity.” As alleged in the Complaint filed in Manhattan federal court:#_ftn1 From at least April 2022 through at least February 2024, HORN engaged in a fraud scheme that involved opening hundreds of accounts with at least three victim companies that offer subscription-based clothing rental services. Those services enable customers to access and rent from the companies’ inventory of apparel and accessories, including luxury and designer items. After receiving rental items, including pieces worth thousands of dollars, HORN kept, instead of returned, the items from the victim companies and sold them on an e-commerce marketplace. HORN’s listings for the stolen items on the e-commerce marketplace often used the victim companies’ proprietary photographs and item descriptions that substantially matched the descriptions used by the victim companies. An image of HORN’s listing for a stolen designer dress on an e-commerce marketplace is below: An image of a listing by one of the victim companies for this same designer dress is below: Although the victim companies attempted to charge HORN for the items she stole, HORN avoided those charges by disputing them with her credit union or canceling the credit and debit cards she had provided to the victim companies. HORN’s fraudulent activity caused the victim companies to flag or close her accounts, but HORN opened new accounts so she could continue stealing and selling luxury and designer goods. During this period, HORN stole over 1,000 items, valued at over $823,000, from the victim companies and sold over $750,000 worth of stolen items. * * * HORN, 42, of Freeland, Michigan, is charged with one count of mail fraud, which carries a maximum sentence of 20 years in prison; one count of wire fraud, which carries a maximum sentence of 20 years in prison; and one count of interstate transportation of stolen property, which carries a maximum sentence of 10 years in prison. The maximum potential sentences in this case are prescribed by Congress and are provided here for informational purposes only, as any sentencing of the defendant will be determined by a judge. Mr. Williams praised the exceptional investigative work of the Special Agents of the U.S. Attorney’s Office for the Southern District of New York. Mr. Williams also thanked the New York State Police and the Michigan State Police for their assistance. This case is being handled by the Office’s General Crimes Unit. Assistant U.S. Attorneys Connie L. Dang and Katherine Cheng are in charge of the prosecution. The charges contained in the Complaint are merely accusations, and the defendant is presumed innocent unless and until proven guilty. #_ftnref1As the introductory phrase signifies, the entirety of the text of the Complaint and the description of the Complaint set forth herein constitute only allegations, and every fact described should be treated as an allegation.
 
 ## changed
 

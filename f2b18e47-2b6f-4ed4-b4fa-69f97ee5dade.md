@@ -6,13 +6,7 @@
 
 ## body
 
-HARRISBURG – The United States Attorney’s Office for the Middle District of Pennsylvania announced that Sally Schrom, age 67, of Mountville, Pennsylvania, was sentenced today by U.S. District Court Judge Sylvia H. Rambo to two years of probation for stealing government funds.  The probation term includes six months of home detention, and Schrom was also ordered to pay $59,587 in restitution.
-
-According to United States Attorney Gerard M. Karam, Schrom previously admitted that following her aunt’s death in April 2017, Schrom unlawfully received and used federal military retirement benefits and federal civilian retirement benefits that were paid to her aunt through November 2019.  The benefits totaled over $73,000.  The government previously reclaimed approximately $13,000 in benefits that Schrom unlawfully obtained.
-
-The case was investigated by the Defense Criminal Investigative Service, the Naval Criminal Investigative Service, the Defense Finance Accounting Service, and the Manheim Township Police Department.  Assistant U.S. Attorney Carlo D. Marchioli prosecuted the case.
-
-# # #
+HARRISBURG – The United States Attorney’s Office for the Middle District of Pennsylvania announced that Sally Schrom, age 67, of Mountville, Pennsylvania, was sentenced today by U.S. District Court Judge Sylvia H. Rambo to two years of probation for stealing government funds. The probation term includes six months of home detention, and Schrom was also ordered to pay $59,587 in restitution. According to United States Attorney Gerard M. Karam, Schrom previously admitted that following her aunt’s death in April 2017, Schrom unlawfully received and used federal military retirement benefits and federal civilian retirement benefits that were paid to her aunt through November 2019. The benefits totaled over $73,000. The government previously reclaimed approximately $13,000 in benefits that Schrom unlawfully obtained. The case was investigated by the Defense Criminal Investigative Service, the Naval Criminal Investigative Service, the Defense Finance Accounting Service, and the Manheim Township Police Department. Assistant U.S. Attorney Carlo D. Marchioli prosecuted the case. # # #
 
 ## changed
 

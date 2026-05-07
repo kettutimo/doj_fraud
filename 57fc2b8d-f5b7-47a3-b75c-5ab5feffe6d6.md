@@ -6,11 +6,7 @@
 
 ## body
 
-Orlando, Florida – Amaris Delapena (50, Windermere) has been sentenced by U.S. District Judge Paul G. Byron to four years and six months in federal prison for committing wire fraud and bank fraud. As part of her sentence, the court also entered an order of forfeiture in the amount of $194,060.09, the proceeds Delapena obtained from the fraud scheme. Delapena was found guilty by a federal jury on June 20, 2025. U.S. Attorney Gregory W. Kehoe made the announcement.
-
-According to court documents, Delapena embezzled funds from an Orlando law firm while employed there as a paralegal. Delapena re-routed checks addressed to and from the law firm’s clients and vendors into accounts that she controlled and transferred client payments from the law firm’s account to accounts that she controlled. Between the time Delapena committed the offenses and her trial, she earned a law degree and became a licensed attorney in Florida.
-
-This case was investigated by the United States Secret Service. It was prosecuted by Assistant United States Attorney Diane Hu. The forfeiture is being handled by Assistant United States Attorney Nicole M. Andrejko.
+Orlando, Florida – Amaris Delapena (50, Windermere) has been sentenced by U.S. District Judge Paul G. Byron to four years and six months in federal prison for committing wire fraud and bank fraud. As part of her sentence, the court also entered an order of forfeiture in the amount of $194,060.09, the proceeds Delapena obtained from the fraud scheme. Delapena was found guilty by a federal jury on June 20, 2025. U.S. Attorney Gregory W. Kehoe made the announcement. According to court documents, Delapena embezzled funds from an Orlando law firm while employed there as a paralegal. Delapena re-routed checks addressed to and from the law firm’s clients and vendors into accounts that she controlled and transferred client payments from the law firm’s account to accounts that she controlled. Between the time Delapena committed the offenses and her trial, she earned a law degree and became a licensed attorney in Florida. This case was investigated by the United States Secret Service. It was prosecuted by Assistant United States Attorney Diane Hu. The forfeiture is being handled by Assistant United States Attorney Nicole M. Andrejko.
 
 ## changed
 

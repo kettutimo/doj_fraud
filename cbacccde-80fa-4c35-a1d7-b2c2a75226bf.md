@@ -6,13 +6,7 @@
 
 ## body
 
-WASHINGTON – Syreeta Price, 51, of Maryland, pleaded guilty today in DC Superior Court to one count of first-degree fraud for obtaining more than $20,000 from a DC Covid-19 tenant assistance program despite having no tenancy in DC. The announcement was made by U.S. Attorney Edward R. Martin, Jr., and District of Columbia Inspector General Daniel W. Lucas.
-
-The Honorable Errol Arthur accepted Price’s plea and scheduled sentencing for April 8, 2025.
-
-According to court documents, in 2021, Price, through a third party, submitted an application to Stronger Together by Assisting You (STAY DC), a DC government program established in 2021 to help cover unpaid rent and utilities for DC renters suffering hardship from the Covid-19 pandemic. Despite actually living in Maryland at the time, Price used the address of an acquaintance in Southeast DC to make herself appear to be a DC resident. The DC government sent her a check for $22,750 intended to cover nearly a year’s worth of unpaid rent for that DC address. Despite knowing she was not eligible for the program, Price cashed the check, deposited it into her personal bank account, and kept the money for her personal use.
-
-This case was investigated by the D.C. Office of the Inspector General. The case is being prosecuted by Special Assistant U.S. Attorney Micah Bluming.
+WASHINGTON – Syreeta Price, 51, of Maryland, pleaded guilty today in DC Superior Court to one count of first-degree fraud for obtaining more than $20,000 from a DC Covid-19 tenant assistance program despite having no tenancy in DC. The announcement was made by U.S. Attorney Edward R. Martin, Jr., and District of Columbia Inspector General Daniel W. Lucas. The Honorable Errol Arthur accepted Price’s plea and scheduled sentencing for April 8, 2025. According to court documents, in 2021, Price, through a third party, submitted an application to Stronger Together by Assisting You (STAY DC), a DC government program established in 2021 to help cover unpaid rent and utilities for DC renters suffering hardship from the Covid-19 pandemic. Despite actually living in Maryland at the time, Price used the address of an acquaintance in Southeast DC to make herself appear to be a DC resident. The DC government sent her a check for $22,750 intended to cover nearly a year’s worth of unpaid rent for that DC address. Despite knowing she was not eligible for the program, Price cashed the check, deposited it into her personal bank account, and kept the money for her personal use. This case was investigated by the D.C. Office of the Inspector General. The case is being prosecuted by Special Assistant U.S. Attorney Micah Bluming.
 
 ## changed
 

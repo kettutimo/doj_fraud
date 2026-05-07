@@ -6,15 +6,7 @@
 
 ## body
 
-HARRISBURG - The United States Attorney’s Office for the Middle District of Pennsylvania announced that Doris Santana, age 54, of Thompsontown, Pennsylvania, was sentenced on May 22, 2025, to six months’ home confinement by United States District Judge Jennifer P. Wilson for social security fraud and theft of public money related to her theft of social security and federal housing funds.
-
-According to Acting United States Attorney John C. Gurganus, between February 2008 and December 2021, Santana was a participant in the Department of Housing and Urban Development (HUD) Section 8 Housing Choice Voucher Program (HCVP), which provided rental assistance to eligible recipients. Between May 2018 and September 2024, Santana also received Supplemental Security Income (SSI) from the Social Security Administration (SSA). In April 2011, Santana married Individual 1. However, Santana concealed the marriage from the SSA and HUD. Santana’s marriage to, cohabitation with, and receipt of income from Individual 1 rendered Santana ineligible to receive SSI and Housing Choice Voucher Program funds.
-
-Judge Wilson also ordered Santana to pay $141,055.10 in restitution.
-
-The case was investigated by the Social Security Administration’s Office of Inspector General and Department of Housing and Urban Development’s Office of Inspector General. Assistant United States Attorney David C. Williams prosecuted the case.
-
-# # #
+HARRISBURG - The United States Attorney’s Office for the Middle District of Pennsylvania announced that Doris Santana, age 54, of Thompsontown, Pennsylvania, was sentenced on May 22, 2025, to six months’ home confinement by United States District Judge Jennifer P. Wilson for social security fraud and theft of public money related to her theft of social security and federal housing funds. According to Acting United States Attorney John C. Gurganus, between February 2008 and December 2021, Santana was a participant in the Department of Housing and Urban Development (HUD) Section 8 Housing Choice Voucher Program (HCVP), which provided rental assistance to eligible recipients. Between May 2018 and September 2024, Santana also received Supplemental Security Income (SSI) from the Social Security Administration (SSA). In April 2011, Santana married Individual 1. However, Santana concealed the marriage from the SSA and HUD. Santana’s marriage to, cohabitation with, and receipt of income from Individual 1 rendered Santana ineligible to receive SSI and Housing Choice Voucher Program funds. Judge Wilson also ordered Santana to pay $141,055.10 in restitution. The case was investigated by the Social Security Administration’s Office of Inspector General and Department of Housing and Urban Development’s Office of Inspector General. Assistant United States Attorney David C. Williams prosecuted the case. # # #
 
 ## changed
 

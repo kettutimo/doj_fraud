@@ -17,17 +17,7 @@
 
 ## body
 
-**NEW ORLEANS –**U.S. Attorney Duane A. Evans announced that**TIFFANY WALLACE**, age 34, of Independence, Louisiana, pled guilty today to theft of government funds in connection with false applications for disaster assistance.
-
-According to court documents,**WALLACE**submitted falsified applications to the Federal Emergency Management Administration (“FEMA”) for disaster assistance. The applications sought disaster assistance for vehicles that WALLACE claimed were damaged following the March and August 2016 storms and flooding in Tangipahoa Parish. In the application,**WALLACE**submitted fraudulent repair invoices for $13,935 of vehicle damage from the March 2016 flood and $13,368 for the August 2016 flood, when in fact**WALLACE**created the fraudulent invoices using fictitious automotive repair shops.****As a result of false statements in the applications, FEMA paid disaster benefits of $6,000 and $11,902 for the two floods to**WALLACE**.
-
-**WALLACE**faces up to ten years in prison, a fine of up to $250,000, up to three years of supervised release following any term of imprisonment, and a special assessment of $100. Judge Jay C. Zainey set the sentencing hearing for June 29, 2021.
-
-U.S. Attorney Evans praised the work of the Department of Homeland Security’s Office of Inspector General. Assistant U.S. Attorney Nicholas D. Moses is in charge of the prosecution.
-
-****
-
-***   *   ***
+**NEW ORLEANS –**U.S. Attorney Duane A. Evans announced that**TIFFANY WALLACE**, age 34, of Independence, Louisiana, pled guilty today to theft of government funds in connection with false applications for disaster assistance. According to court documents,**WALLACE**submitted falsified applications to the Federal Emergency Management Administration (“FEMA”) for disaster assistance. The applications sought disaster assistance for vehicles that WALLACE claimed were damaged following the March and August 2016 storms and flooding in Tangipahoa Parish. In the application,**WALLACE**submitted fraudulent repair invoices for $13,935 of vehicle damage from the March 2016 flood and $13,368 for the August 2016 flood, when in fact**WALLACE**created the fraudulent invoices using fictitious automotive repair shops.****As a result of false statements in the applications, FEMA paid disaster benefits of $6,000 and $11,902 for the two floods to**WALLACE**. **WALLACE**faces up to ten years in prison, a fine of up to $250,000, up to three years of supervised release following any term of imprisonment, and a special assessment of $100. Judge Jay C. Zainey set the sentencing hearing for June 29, 2021. U.S. Attorney Evans praised the work of the Department of Homeland Security’s Office of Inspector General. Assistant U.S. Attorney Nicholas D. Moses is in charge of the prosecution. **** *** * ***
 
 ## changed
 

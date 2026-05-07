@@ -6,17 +6,7 @@
 
 ## body
 
-MARTINSBURG, WEST VIRGINIA – Two Georgia residents have been charged with causing a Gilmer County business to send them three fraudulent wires totaling over $1 million as part of a business email compromise scheme.
-
-United States Attorney William Ihlenfeld announced that Chisom Okonkwo, age 27, and Prince Boateng Adjei, age 30, both of Lawrenceville, Georgia, have been indicted on 18 counts of wire fraud. According to the indictment, Okonkwo and Adjei created an email address which spoofed that of an employee at a Gilmer County business, causing a vendor to send more than $1 million to a bank account controlled by the defendants in Georgia. Before investigators uncovered the crime, Okonkwo and Adjei are alleged to have expended more than $600,000 of the stolen funds.
-
-“Business email compromise fraud continues to be a problem in West Virginia and throughout the country,” said U.S. Attorney Ihlenfeld. “The good news is that it can be prevented with the training of employees, the implementation of email authentication protocols, and verifying the sender of the email through another form of communication.”
-
-Assistant U.S. Attorney Jarod Douglas is prosecuting the case on behalf of the government.
-
-The United States Secret Service investigated the case.
-
-*An indictment is merely an allegation, and each defendant is presumed innocent until proven guilty beyond a reasonable doubt in a court of law.*
+MARTINSBURG, WEST VIRGINIA – Two Georgia residents have been charged with causing a Gilmer County business to send them three fraudulent wires totaling over $1 million as part of a business email compromise scheme. United States Attorney William Ihlenfeld announced that Chisom Okonkwo, age 27, and Prince Boateng Adjei, age 30, both of Lawrenceville, Georgia, have been indicted on 18 counts of wire fraud. According to the indictment, Okonkwo and Adjei created an email address which spoofed that of an employee at a Gilmer County business, causing a vendor to send more than $1 million to a bank account controlled by the defendants in Georgia. Before investigators uncovered the crime, Okonkwo and Adjei are alleged to have expended more than $600,000 of the stolen funds. “Business email compromise fraud continues to be a problem in West Virginia and throughout the country,” said U.S. Attorney Ihlenfeld. “The good news is that it can be prevented with the training of employees, the implementation of email authentication protocols, and verifying the sender of the email through another form of communication.” Assistant U.S. Attorney Jarod Douglas is prosecuting the case on behalf of the government. The United States Secret Service investigated the case. *An indictment is merely an allegation, and each defendant is presumed innocent until proven guilty beyond a reasonable doubt in a court of law.*
 
 ## changed
 

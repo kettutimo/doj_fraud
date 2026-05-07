@@ -6,15 +6,7 @@
 
 ## body
 
-**CHARLESTON, S.C.**—Hason Tatorian “Tory” Fields, 51, of Goose Creek, has pleaded guilty to conspiracy to commit bribery with respect to programs receiving federal funds and honest services wire fraud, bribery with respect to programs receiving federal funds, and honest services wire fraud.
-
-Evidence obtained in the investigation revealed that Fields conspired with others to pay bribes to Sandino Moses. At the time, Moses was serving as a member of the City of North Charleston’s City Council representing District 7. Fields paid Moses two bribes as part of an effort to secure his support for the rezoning of the Baker Hospital site. The application for rezoning was pending before City Council when Fields first approached Moses.
-
-Fields faces a maximum penalty of 20 years in federal prison. He also faces a fine of up to $250,000, restitution, and three years of supervision to follow the term of imprisonment. United States District Judge Richard M. Gergel accepted the guilty plea and will sentence Fields after receiving and reviewing a sentencing report prepared by the U.S. Probation Office.
-
-This case was investigated by the FBI Columbia Field Office and the South Carolina Law Enforcement Division. Assistant U.S. Attorneys Emily Limehouse and Whit Sowards are prosecuting the case.
-
-###
+**CHARLESTON, S.C.**—Hason Tatorian “Tory” Fields, 51, of Goose Creek, has pleaded guilty to conspiracy to commit bribery with respect to programs receiving federal funds and honest services wire fraud, bribery with respect to programs receiving federal funds, and honest services wire fraud. Evidence obtained in the investigation revealed that Fields conspired with others to pay bribes to Sandino Moses. At the time, Moses was serving as a member of the City of North Charleston’s City Council representing District 7. Fields paid Moses two bribes as part of an effort to secure his support for the rezoning of the Baker Hospital site. The application for rezoning was pending before City Council when Fields first approached Moses. Fields faces a maximum penalty of 20 years in federal prison. He also faces a fine of up to $250,000, restitution, and three years of supervision to follow the term of imprisonment. United States District Judge Richard M. Gergel accepted the guilty plea and will sentence Fields after receiving and reviewing a sentencing report prepared by the U.S. Probation Office. This case was investigated by the FBI Columbia Field Office and the South Carolina Law Enforcement Division. Assistant U.S. Attorneys Emily Limehouse and Whit Sowards are prosecuting the case. ###
 
 ## changed
 

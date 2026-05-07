@@ -6,17 +6,7 @@
 
 ## body
 
-PLANO, Texas – A Murphy man has been sentenced to federal prison for defrauding investors of over $4 million in the Eastern District of Texas, announced Acting U.S. Attorney Jay R. Combs.
-
-Sameer Praveen Sethi, 42, was convicted of seven counts of wire fraud and one count of money laundering by a jury following a lengthy trial before U.S. District Judge Sean D. Jordan on December 10, 2024.  On August 28, 2025, Judge Jordan sentenced Sethi to 151 months in federal prison.
-
-According to information presented in court, over several years, Sethi engaged in a fraud scheme targeting investors of oil and gas joint ventures.  Evidence presented at trial showed that Sethi would create a joint venture, prepare investment documents along with his staff, have his sales staff market the investments, and then spend the money raised from investors almost entirely on personal and business expenses.  Evidence showed the investment documents contained significant misrepresentations and false statements.  Although over $4 million was raised over the course of the joint ventures, investors received almost no returns.
-
-“The sentence handed down by Judge Jordan follows years of investigation by Internal Revenue Service-Criminal Investigation and a lengthy trial, and shows the serious nature of Sameer Sethi’s crimes,” said Acting U.S. Attorney Jay R. Combs.  “The U.S. Attorney’s Office will continue to work closely with the IRS-Criminal Investigation office and the FBI to investigate and prosecute the kinds of investor fraud that occurred in this case and to seek justice for the public and for the innocent victims of these crimes.”
-
-This case was investigated by the Internal Revenue Service-Criminal Investigation, Texas State Securities Board, and the FBI.
-
-###
+PLANO, Texas – A Murphy man has been sentenced to federal prison for defrauding investors of over $4 million in the Eastern District of Texas, announced Acting U.S. Attorney Jay R. Combs. Sameer Praveen Sethi, 42, was convicted of seven counts of wire fraud and one count of money laundering by a jury following a lengthy trial before U.S. District Judge Sean D. Jordan on December 10, 2024. On August 28, 2025, Judge Jordan sentenced Sethi to 151 months in federal prison. According to information presented in court, over several years, Sethi engaged in a fraud scheme targeting investors of oil and gas joint ventures. Evidence presented at trial showed that Sethi would create a joint venture, prepare investment documents along with his staff, have his sales staff market the investments, and then spend the money raised from investors almost entirely on personal and business expenses. Evidence showed the investment documents contained significant misrepresentations and false statements. Although over $4 million was raised over the course of the joint ventures, investors received almost no returns. “The sentence handed down by Judge Jordan follows years of investigation by Internal Revenue Service-Criminal Investigation and a lengthy trial, and shows the serious nature of Sameer Sethi’s crimes,” said Acting U.S. Attorney Jay R. Combs. “The U.S. Attorney’s Office will continue to work closely with the IRS-Criminal Investigation office and the FBI to investigate and prosecute the kinds of investor fraud that occurred in this case and to seek justice for the public and for the innocent victims of these crimes.” This case was investigated by the Internal Revenue Service-Criminal Investigation, Texas State Securities Board, and the FBI. ###
 
 ## changed
 

@@ -6,15 +6,7 @@
 
 ## body
 
-PITTSBURGH, PA – Milton Barth Reed, Jr., III, age 32, was sentenced today in federal court on charges of attempted mail fraud and aggravated identity theft, United States Attorney Eric G. Olshan announced.
-
-According to information presented to the Court, Reed was part of a conspiracy that involved the use of personally identifying information belonging to other people to file fraudulent applications for Pandemic Unemployment Assistance and Federal Pandemic Unemployment Compensation benefits in states across the country, including Pennsylvania. On or about September 17, 2020, Reed traveled to Pittsburgh in an attempt to collect benefits that had been issued by Pennsylvania based on those fraudulent applications and were scheduled to be delivered in the area.
-
-Judge Cathy Bissoon sentenced Reed to a total of 36 months in prison to be followed by three years supervised release.
-
-Assistant United States Attorney Jeffrey R. Bengel prosecuted this case on behalf of the government.
-
-The United States Department of Labor, United States Postal Inspection Service, and United States Department of Homeland Security conducted the investigation leading to the Indictment in this case.
+PITTSBURGH, PA – Milton Barth Reed, Jr., III, age 32, was sentenced today in federal court on charges of attempted mail fraud and aggravated identity theft, United States Attorney Eric G. Olshan announced. According to information presented to the Court, Reed was part of a conspiracy that involved the use of personally identifying information belonging to other people to file fraudulent applications for Pandemic Unemployment Assistance and Federal Pandemic Unemployment Compensation benefits in states across the country, including Pennsylvania. On or about September 17, 2020, Reed traveled to Pittsburgh in an attempt to collect benefits that had been issued by Pennsylvania based on those fraudulent applications and were scheduled to be delivered in the area. Judge Cathy Bissoon sentenced Reed to a total of 36 months in prison to be followed by three years supervised release. Assistant United States Attorney Jeffrey R. Bengel prosecuted this case on behalf of the government. The United States Department of Labor, United States Postal Inspection Service, and United States Department of Homeland Security conducted the investigation leading to the Indictment in this case.
 
 ## changed
 

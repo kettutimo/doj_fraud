@@ -6,11 +6,7 @@
 
 ## body
 
-Tampa, Florida – United States Attorney Roger B. Handberg announces that Abdul Aziz has pleaded guilty to one count of aiding in the preparation and filing of a false tax return. He faces a maximum penalty of three years in federal prison. A sentencing date has not yet been set.
-
-According to the plea agreement, Aziz helped to prepare numerous false and fraudulent income tax returns on behalf of clients in 2016. Those tax returns contained false information about clients’ income and their tax withholding status. The false entries in those returns related to residential mortgage loan repayments that the returns falsely represented as being held on their behalf by financial institutions and were claimed as income. As a result of those false entries, Aziz’s clients were able to claim and receive substantial refunds from the IRS which his clients were not lawfully entitled to receive. Those refunds exceeded $1,500,000.
-
-This case was investigated by the Internal Revenue Service – Criminal Investigation. It is being prosecuted by Assistant United States Attorney Jay L. Hoffer.
+Tampa, Florida – United States Attorney Roger B. Handberg announces that Abdul Aziz has pleaded guilty to one count of aiding in the preparation and filing of a false tax return. He faces a maximum penalty of three years in federal prison. A sentencing date has not yet been set. According to the plea agreement, Aziz helped to prepare numerous false and fraudulent income tax returns on behalf of clients in 2016. Those tax returns contained false information about clients’ income and their tax withholding status. The false entries in those returns related to residential mortgage loan repayments that the returns falsely represented as being held on their behalf by financial institutions and were claimed as income. As a result of those false entries, Aziz’s clients were able to claim and receive substantial refunds from the IRS which his clients were not lawfully entitled to receive. Those refunds exceeded $1,500,000. This case was investigated by the Internal Revenue Service – Criminal Investigation. It is being prosecuted by Assistant United States Attorney Jay L. Hoffer.
 
 ## changed
 
