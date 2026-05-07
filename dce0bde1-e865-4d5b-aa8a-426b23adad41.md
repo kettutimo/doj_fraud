@@ -1,0 +1,77 @@
+# dce0bde1-e865-4d5b-aa8a-426b23adad41
+
+## attachment
+
+
+
+## body
+
+Marc H. Silverman, Acting United States Attorney for the District of Connecticut, announced that JAMES BLOSE, 56, of Fairfield, was sentenced today by U.S. District Judge Robert N. Chatigny in Hartford to 48 months of imprisonment, followed by three years of supervised release, for offenses stemming from a decade-long embezzlement scheme at banks where he served as General Counsel and held other high-ranking positions.
+
+According to court documents and statements made in court, from approximately 2013 to January 2022, Blose was an attorney and held high-ranking positions, including General Counsel, at Hudson Valley Bank and Sterling National Bank.  From approximately January 2022, when Webster Bank acquired Sterling National Bank, until February 2023, Blose served as Executive Vice President and General Counsel and Corporate Secretary at Webster Bank.
+
+From approximately 2013 until Webster Bank discovered his scheme and his employment was terminated in February 2023, Blose defrauded his employers (“The Bank”) in various ways.  In certain commercial loan transactions where The Bank was the lender, Blose fraudulently retained for himself portions of closing costs, including legal fees.  In certain real estate transactions in which The Bank was the seller, Blose retained portions of the sale proceeds for himself.  For some of the real estate transactions, Blose created false documents in order to hide his theft from The Bank.  Blose also stole from The Bank in other ways.
+
+As part of the scheme, Blose used his attorney trust accounts to make personal expenditures, and to transfer funds to accounts in the names of business entities he created and controlled, and then used those funds for his personal benefit.  Through this scheme, Blose stole approximately $7.4 million from his employers, and used the stolen funds to purchase a vacation property on Kiawah Island in South Carolina, for construction of his Connecticut home, and for luxury vehicles, jewelry, private jets charters, multiple country club memberships, and other expenses.
+
+Judge Chatigny will determine restitution after additional court proceedings.
+
+On December 20, 2024, Blose pleaded guilty to one count of bank fraud and one count of engaging in illegal monetary transactions.
+
+Blose, who is released on a $250,000 bond, is required to report to prison on June 23
+
+This investigation was conducted by the Federal Bureau of Investigation, the Internal Revenue Service – Criminal Investigation, and the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection’s Office of the Inspector General.  Financial crimes investigators from Webster Bank assisted the investigation.
+
+This case was prosecuted by Assistant U.S. Attorney Michael S. McGarry.
+
+## changed
+
+2025-04-24T17:38:14-04:00
+
+## component
+
+- 
+  - **uuid:**
+    ff874cc1-ca76-4aa4-8013-d253aca40328
+  - **name:**
+    USAO - Connecticut
+
+## created
+
+2025-04-24T17:36:36-04:00
+
+## date
+
+2025-04-24T12:00:00Z
+
+## image
+
+
+
+## number
+
+
+
+## teaser
+
+JAMES BLOSE, 56, of Fairfield, was sentenced today by U.S. District Judge Robert N. Chatigny in Hartford to 48 months of imprisonment, followed by three years of supervised release, for offenses stemming from a decade-long embezzlement scheme at banks where he served as General Counsel and held other high-ranking positions.
+
+## title
+
+Bank General Counsel Sentenced to 4 Years in Prison for $7.4 Million Embezzlement Scheme
+
+## topic
+
+- 
+  - **uuid:**
+    77a2d846-a826-49db-a31a-c5db747e9ad3
+  - **name:**
+    Financial Fraud
+
+## url
+
+https://www.justice.gov/usao-ct/pr/bank-general-counsel-sentenced-4-years-prison-74-million-embezzlement-scheme
+
+## uuid
+
+dce0bde1-e865-4d5b-aa8a-426b23adad41

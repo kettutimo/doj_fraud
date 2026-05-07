@@ -1,0 +1,92 @@
+# ac56faaf-e1fe-487f-a5a0-8c8d35301eef
+
+## attachment
+
+
+
+## body
+
+A former natural gas trader pleaded guilty today to conspiracy to commit commodities fraud and wire fraud for his role in an insider trading scheme.
+
+John Ed James, 51, of Katy, Texas, pleaded guilty to one count of conspiracy to commit commodities fraud and wire fraud before U.S. District Judge Vanessa Gilmore of the Southern District of Texas. Sentencing has been scheduled for April 26, 2021, before Judge Gilmore.
+
+“When individuals engage in deceptive trade practices and manipulate the commodities market for their personal gain, they undermine the public’s confidence in the U.S. markets and stack the deck against other traders and investors,” said Acting Assistant Attorney General Nicholas L. McQuaid of the Justice Department’s Criminal Division. “The department and our law enforcement partners will continue to pursue and prosecute those who engage in such activity.”
+
+“That executives continue to use inside nonpublic information for their own gain illustrates that prosecutors must investigate and pursue these cases,” said U.S. Attorney Ryan K. Patrick of the Southern District of Texas. “These conspirators cooked the books and shared the loot – plain and simple.”
+
+“Commodities fraud and insider trading undermine the integrity of the markets, in this case the energy market which plays a key role in the Houston area economy,” said Special Agent in Charge Perrye K. Turner of the FBI’s Houston Field Office. “The FBI will continue to combat criminal violations of the commodities laws to eliminate unscrupulous activity and protect market participants so that the public will continue to have trust in the system.”
+
+As part of his guilty plea, James admitted that he conspired with others to misappropriate material, nonpublic information and to use that information to engage in fraudulent, pre-arranged trades in natural gas futures contracts. These pre-arranged trades generated approximately $966,403 in illicit proceeds. He further admitted that the net profits from these fraudulent trades were split between himself and others involved in the fraudulent trading scheme. James also admitted that he and others agreed to falsely document certain proceeds as income on IRS forms in part to conceal the true nature of the funds and to make the illicit profits appear to be legitimate income paid.
+
+In a related case, Marcus Schultz, 41, previously pleaded guilty before Judge Gilmore on July 20, 2020, to a one-count information charging him with conspiracy to commit wire fraud and to violate various provisions of the Commodity Exchange Act, including 17 C.F.R. § 180.1. Sentencing is scheduled for June 14, 2021. This matter marks the Department of Justice’s first effort to prosecute insider trading in the commodity markets under Section 180.1.
+
+This case is the result of an ongoing investigation by the FBI’s Houston Field Office and the IRS-CI’s Houston Field Office. Trial Attorneys Jennifer Farer, Drew Bradylyons, and Della Sentilles of the Criminal Division’s Fraud Section and Assistant U.S. Attorney Suzanne Elmilady of the Southern District of Houston are prosecuting the case.
+
+The Criminal Division’s Fraud Section plays a pivotal role in the Department of Justice’s fight against white collar crime around the country and is the national leader in prosecuting fraud and manipulation in the U.S. commodity markets.
+
+## changed
+
+2025-02-05T20:53:57-05:00
+
+## component
+
+- 
+  - **uuid:**
+    46370d9f-afee-4408-a29b-48812154bc0c
+  - **name:**
+    Criminal Division
+- 
+  - **uuid:**
+    a618801c-2b1e-4ce0-b47e-4db0bce55ac2
+  - **name:**
+    Criminal - Criminal Fraud Section
+- 
+  - **uuid:**
+    dca09ceb-4978-4466-9c30-ce9f5ada2f0a
+  - **name:**
+    Federal Bureau of Investigation (FBI)
+- 
+  - **uuid:**
+    9df3ecc7-70b1-4129-a052-089bce8b2ba2
+  - **name:**
+    USAO - Texas, Southern
+
+## created
+
+2021-02-01T18:21:32-05:00
+
+## date
+
+2021-02-01T12:00:00Z
+
+## image
+
+
+
+## number
+
+21-121
+
+## teaser
+
+A former natural gas trader pleaded guilty today to conspiracy to commit commodities fraud and wire fraud for his role in an insider trading scheme.
+
+## title
+
+Former Natural Gas Trader Pleads Guilty for Role in Commodities Insider Trading Scheme
+
+## topic
+
+- 
+  - **uuid:**
+    e5f03be8-739e-438c-8fd4-913af5967747
+  - **name:**
+    Securities, Commodities, & Investment Fraud
+
+## url
+
+https://www.justice.gov/archives/opa/pr/former-natural-gas-trader-pleads-guilty-role-commodities-insider-trading-scheme
+
+## uuid
+
+ac56faaf-e1fe-487f-a5a0-8c8d35301eef

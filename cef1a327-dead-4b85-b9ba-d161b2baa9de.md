@@ -1,0 +1,79 @@
+# cef1a327-dead-4b85-b9ba-d161b2baa9de
+
+## attachment
+
+
+
+## body
+
+**CHARLESTON, S.C.**—Hason Tatorian “Tory” Fields, 51, of Goose Creek, has pleaded guilty to conspiracy to commit bribery with respect to programs receiving federal funds and honest services wire fraud, bribery with respect to programs receiving federal funds, and honest services wire fraud.
+
+Evidence obtained in the investigation revealed that Fields conspired with others to pay bribes to Sandino Moses. At the time, Moses was serving as a member of the City of North Charleston’s City Council representing District 7. Fields paid Moses two bribes as part of an effort to secure his support for the rezoning of the Baker Hospital site. The application for rezoning was pending before City Council when Fields first approached Moses.
+
+Fields faces a maximum penalty of 20 years in federal prison. He also faces a fine of up to $250,000, restitution, and three years of supervision to follow the term of imprisonment. United States District Judge Richard M. Gergel accepted the guilty plea and will sentence Fields after receiving and reviewing a sentencing report prepared by the U.S. Probation Office.
+
+This case was investigated by the FBI Columbia Field Office and the South Carolina Law Enforcement Division. Assistant U.S. Attorneys Emily Limehouse and Whit Sowards are prosecuting the case.
+
+###
+
+## changed
+
+2025-08-06T10:38:04-04:00
+
+## component
+
+- 
+  - **uuid:**
+    dca09ceb-4978-4466-9c30-ce9f5ada2f0a
+  - **name:**
+    Federal Bureau of Investigation (FBI)
+- 
+  - **uuid:**
+    e21ed86f-8c15-410a-9875-2ffeda1475cc
+  - **name:**
+    USAO - South Carolina
+
+## created
+
+2025-08-06T08:52:41-04:00
+
+## date
+
+2025-08-06T12:00:00Z
+
+## image
+
+
+
+## number
+
+
+
+## teaser
+
+**CHARLESTON, S.C.**—Hason Tatorian “Tory” Fields, 51, of Goose Creek, has pleaded guilty to conspiracy to commit bribery with respect to programs receiving federal funds and honest services wire fraud, bribery with respect to programs receiving federal funds, and honest services wire fraud.
+
+## title
+
+Goose Creek Man Pleads Guilty in Public Corruption Scheme
+
+## topic
+
+- 
+  - **uuid:**
+    77a2d846-a826-49db-a31a-c5db747e9ad3
+  - **name:**
+    Financial Fraud
+- 
+  - **uuid:**
+    351fcc4e-1f5b-4490-b848-db30da15059a
+  - **name:**
+    Public Corruption
+
+## url
+
+https://www.justice.gov/usao-sc/pr/goose-creek-man-pleads-guilty-public-corruption-scheme
+
+## uuid
+
+cef1a327-dead-4b85-b9ba-d161b2baa9de
